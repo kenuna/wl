@@ -1,0 +1,18 @@
+{
+  "country": "KZ",
+  "flag": "🇰🇿",
+  "generated_at": "2026-03-15T08:16:38.338876Z",
+  "total": 2,
+  "configs": [
+    {
+      "name": "🇰🇿 Kazakhstan [SNI-RU] rbc.ru",
+      "url": "vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=random&sid=84aa32f674cfe92f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20rbc.ru",
+      "latency": 733.87
+    },
+    {
+      "name": "🇰🇿 Kazakhstan [SNI-RU] sun6-21.userapi.com",
+      "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@kz.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=%2F&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20sun6-21.userapi.com",
+      "latency": 1383.24
+    }
+  ]
+}
