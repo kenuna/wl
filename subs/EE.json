@@ -1,13 +1,23 @@
 {
   "country": "EE",
   "flag": "🇪🇪",
-  "generated_at": "2026-03-16T19:16:13.393457Z",
-  "total": 1,
+  "generated_at": "2026-03-16T19:33:27.308990Z",
+  "total": 3,
   "configs": [
+    {
+      "name": "🇪🇪 Estonia — #394",
+      "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23394",
+      "latency": 3121.84
+    },
     {
       "name": "🇪🇪 Estonia — #393",
       "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23393",
-      "latency": 1482.84
+      "latency": 3132.14
+    },
+    {
+      "name": "🇪🇪 Estonia — #459",
+      "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23459",
+      "latency": 5887.1
     }
   ]
 }

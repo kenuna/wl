@@ -1,58 +1,73 @@
 {
   "country": "MD",
   "flag": "🇲🇩",
-  "generated_at": "2026-03-16T19:12:43.881120Z",
-  "total": 10,
+  "generated_at": "2026-03-16T19:33:27.308990Z",
+  "total": 13,
   "configs": [
     {
-      "name": "🇲🇩 Moldova — #510",
-      "url": "vless://8ee6a020-337b-4578-9bb9-a35f1a2b2824@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23510",
-      "latency": 4540.15
+      "name": "🇲🇩 Moldova — #503",
+      "url": "vless://5a9f139e-b99e-4fa9-8263-c7d07d538140@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23503",
+      "latency": 429.19
     },
     {
       "name": "🇲🇩 Moldova — #508",
       "url": "vless://1b2018cc-9032-46e6-a06d-347fbfec3f26@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23508",
-      "latency": 4562.26
-    },
-    {
-      "name": "🇲🇩 Moldova — #505",
-      "url": "vless://db46bb3f-9987-4205-b42a-7e53e85576de@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23505",
-      "latency": 5013.34
-    },
-    {
-      "name": "🇲🇩 Moldova — #503",
-      "url": "vless://5a9f139e-b99e-4fa9-8263-c7d07d538140@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23503",
-      "latency": 5193.5
+      "latency": 469.51
     },
     {
       "name": "🇲🇩 Moldova — #501",
       "url": "vless://82c1c0b9-aac0-483c-ba06-6dcc94391cb4@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23501",
-      "latency": 5205.61
+      "latency": 473.9
+    },
+    {
+      "name": "🇲🇩 Moldova — #510",
+      "url": "vless://8ee6a020-337b-4578-9bb9-a35f1a2b2824@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23510",
+      "latency": 501.02
     },
     {
       "name": "🇲🇩 Moldova — #507",
       "url": "vless://03db0ba9-7751-451f-881d-b27782051450@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23507",
-      "latency": 5431.08
-    },
-    {
-      "name": "🇲🇩 Moldova — #506",
-      "url": "vless://56af3ffa-722c-4e62-be24-2f44ad97b08f@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23506",
-      "latency": 5466.58
-    },
-    {
-      "name": "🇲🇩 Moldova — #502",
-      "url": "vless://1d0297c4-9079-41a8-99b4-1850a32131e1@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23502",
-      "latency": 5583.63
+      "latency": 528.61
     },
     {
       "name": "🇲🇩 Moldova — #509",
       "url": "vless://b7c5fc96-5ac0-4809-8566-aaf59e5d8d6d@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23509",
-      "latency": 5975.85
+      "latency": 965.36
+    },
+    {
+      "name": "🇲🇩 Moldova — #601",
+      "url": "vless://1d0297c4-9079-41a8-99b4-1850a32131e1@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23601",
+      "latency": 1229.07
+    },
+    {
+      "name": "🇲🇩 Moldova — #502",
+      "url": "vless://1d0297c4-9079-41a8-99b4-1850a32131e1@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23502",
+      "latency": 1250.6
+    },
+    {
+      "name": "🇲🇩 Moldova — #505",
+      "url": "vless://db46bb3f-9987-4205-b42a-7e53e85576de@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23505",
+      "latency": 1491.05
+    },
+    {
+      "name": "🇲🇩 Moldova — #603",
+      "url": "vless://379c173c-5260-431d-8150-a11054e52bc6@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23603",
+      "latency": 1556.19
     },
     {
       "name": "🇲🇩 Moldova — #504",
       "url": "vless://379c173c-5260-431d-8150-a11054e52bc6@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23504",
-      "latency": 6297.26
+      "latency": 2943.85
+    },
+    {
+      "name": "🇲🇩 Moldova — #604",
+      "url": "vless://db46bb3f-9987-4205-b42a-7e53e85576de@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23604",
+      "latency": 3329.34
+    },
+    {
+      "name": "🇲🇩 Moldova — #608",
+      "url": "vless://b7c5fc96-5ac0-4809-8566-aaf59e5d8d6d@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23608",
+      "latency": 4933.31
     }
   ]
 }
