@@ -1,13 +1,18 @@
 {
   "country": "LT",
   "flag": "🇱🇹",
-  "generated_at": "2026-03-16T19:12:43.881120Z",
-  "total": 1,
+  "generated_at": "2026-03-16T19:16:13.393457Z",
+  "total": 2,
   "configs": [
     {
       "name": "🇱🇹 Lithuania — #459",
       "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@185.130.114.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=s_4YEPkqKT2ootnyc3PyNzw31TTVhrcmdpo1s78F6F4&sid=ff5c4c10ca44241a#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23459",
-      "latency": 387.36
+      "latency": 278.57
+    },
+    {
+      "name": "🇱🇹 Lithuania — #558",
+      "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@185.130.114.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=s_4YEPkqKT2ootnyc3PyNzw31TTVhrcmdpo1s78F6F4&sid=ff5c4c10ca44241a#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23558",
+      "latency": 594.29
     }
   ]
 }
