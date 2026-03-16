@@ -1,23 +1,23 @@
 {
   "country": "FR",
   "flag": "🇫🇷",
-  "generated_at": "2026-03-16T19:50:37.322395Z",
+  "generated_at": "2026-03-16T20:07:52.760041Z",
   "total": 3,
   "configs": [
     {
-      "name": "🇫🇷 France [*CIDR] VK",
-      "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK",
-      "latency": 252.36
-    },
-    {
       "name": "🇫🇷 France — #412",
       "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23412",
-      "latency": 426.95
+      "latency": 794.21
+    },
+    {
+      "name": "🇫🇷 France [*CIDR] VK",
+      "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK",
+      "latency": 1073.63
     },
     {
       "name": "🇫🇷 France — #497",
       "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23497",
-      "latency": 1163.89
+      "latency": 2697.47
     }
   ]
 }
