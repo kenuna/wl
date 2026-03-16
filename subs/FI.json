@@ -1,98 +1,98 @@
 {
   "country": "FI",
   "flag": "🇫🇮",
-  "generated_at": "2026-03-16T22:07:38.490920Z",
+  "generated_at": "2026-03-16T22:24:47.157981Z",
   "total": 18,
   "configs": [
     {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@37.139.32.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 120.02
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 297.9
-    },
-    {
-      "name": "🇫🇮 Finland — #478",
-      "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23478",
-      "latency": 360.32
-    },
-    {
-      "name": "🇫🇮 Finland — #476",
-      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23476",
-      "latency": 366.46
-    },
-    {
       "name": "🇫🇮 Finland — #472",
       "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23472",
-      "latency": 408.58
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@37.139.32.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 414.4
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://8a2d88e1-cd72-0bb8-846f-d46c231ebe75@89.208.230.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 428.54
-    },
-    {
-      "name": "🇫🇮 Finland — #475",
-      "url": "vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23475",
-      "latency": 443.17
-    },
-    {
-      "name": "🇫🇮 Finland — #474",
-      "url": "vless://8a2d88e1-cd72-0bb8-846f-d46c231ebe75@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23474",
-      "latency": 485.58
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@plfl.ilovemax.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 515.05
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 579.33
-    },
-    {
-      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 630.96
-    },
-    {
-      "name": "🇫🇮 Finland — #393",
-      "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23393",
-      "latency": 859.98
+      "latency": 193.14
     },
     {
       "name": "🇫🇮 Finland — #480",
       "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.230.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23480",
-      "latency": 903.61
+      "latency": 199.98
     },
     {
-      "name": "🇫🇮 Finland — #396",
-      "url": "vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23396",
-      "latency": 913.31
+      "name": "🇫🇮 Finland — #474",
+      "url": "vless://8a2d88e1-cd72-0bb8-846f-d46c231ebe75@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23474",
+      "latency": 226.49
+    },
+    {
+      "name": "🇫🇮 Finland — #478",
+      "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23478",
+      "latency": 285.49
+    },
+    {
+      "name": "🇫🇮 Finland — #476",
+      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23476",
+      "latency": 292.69
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 297.52
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@37.139.32.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 298.35
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@plfl.ilovemax.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 380.41
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@37.139.32.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 380.72
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-0bb8-b22a-9a9c58c84811@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 408.01
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://8a2d88e1-cd72-0bb8-846f-d46c231ebe75@89.208.230.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 436.37
+    },
+    {
+      "name": "🇫🇮 Finland — #393",
+      "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23393",
+      "latency": 509.87
     },
     {
       "name": "🇫🇮 Finland — #395",
       "url": "vless://8a2d88e1-cd72-0bb8-846f-d46c231ebe75@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23395",
-      "latency": 935.73
+      "latency": 510.95
     },
     {
       "name": "🇫🇮 Finland — #399",
       "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.116.172.39:8444?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23399",
-      "latency": 1076.37
+      "latency": 513.24
+    },
+    {
+      "name": "🇫🇮 Finland — #396",
+      "url": "vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23396",
+      "latency": 520.24
+    },
+    {
+      "name": "🇫🇮 Finland — #397",
+      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23397",
+      "latency": 556.08
+    },
+    {
+      "name": "🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+      "latency": 577.09
     },
     {
       "name": "🇫🇮 Finland — #400",
       "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.230.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23400",
-      "latency": 1081.44
+      "latency": 697.94
     }
   ]
 }
