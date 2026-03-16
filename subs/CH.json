@@ -1,33 +1,28 @@
 {
   "country": "CH",
   "flag": "🇨🇭",
-  "generated_at": "2026-03-16T21:50:30.242384Z",
-  "total": 5,
+  "generated_at": "2026-03-16T22:07:38.490920Z",
+  "total": 4,
   "configs": [
     {
       "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&sni=rbc.ru#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 740.15
-    },
-    {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 748.08
+      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
+      "latency": 607.21
     },
     {
       "name": "🇨🇭 Switzerland [*CIDR] VK",
       "url": "vless://f8769a4b-d64e-4b1d-9f12-1a7b493b8f90@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 834.37
+      "latency": 721.67
+    },
+    {
+      "name": "🇨🇭 Switzerland [*CIDR] VK",
+      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
+      "latency": 763.24
     },
     {
       "name": "🇨🇭 Switzerland [*CIDR] VK",
       "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sni=rbc.ru&sid=445ab326fc7c90ac#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 917.8
-    },
-    {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 2339.04
+      "latency": 786.34
     }
   ]
 }
