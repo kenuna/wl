@@ -1,23 +1,23 @@
 {
   "country": "TR",
   "flag": "🇹🇷",
-  "generated_at": "2026-03-17T01:33:34.226701Z",
+  "generated_at": "2026-03-17T01:50:46.495401Z",
   "total": 3,
   "configs": [
     {
       "name": "🇹🇷 Türkiye — #936",
       "url": "vless://29aab552-bfbb-0fa0-b22a-9a9c58c84811@212.111.84.24:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23936",
-      "latency": 665.49
-    },
-    {
-      "name": "🇹🇷 Türkiye — #786",
-      "url": "vless://29aab552-bfbb-0fa0-b22a-9a9c58c84811@212.111.84.24:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23786",
-      "latency": 999.57
+      "latency": 392.71
     },
     {
       "name": "🇹🇷 Turkey [*CIDR] VK",
       "url": "vless://29aab552-bfbb-0fa0-b22a-9a9c58c84811@212.111.84.24:52006?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D%20VK",
-      "latency": 1033.35
+      "latency": 752.75
+    },
+    {
+      "name": "🇹🇷 Türkiye — #786",
+      "url": "vless://29aab552-bfbb-0fa0-b22a-9a9c58c84811@212.111.84.24:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23786",
+      "latency": 1319.36
     }
   ]
 }
