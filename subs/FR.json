@@ -1,68 +1,88 @@
 {
   "country": "FR",
   "flag": "🇫🇷",
-  "generated_at": "2026-03-17T21:35:41.341213Z",
-  "total": 12,
+  "generated_at": "2026-03-17T21:53:31.464414Z",
+  "total": 16,
   "configs": [
     {
       "name": "🇫🇷 France — #872",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23872",
-      "latency": 306.31
-    },
-    {
-      "name": "🇫🇷 France — #855",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23855",
-      "latency": 373.33
-    },
-    {
-      "name": "🇫🇷 France — #733",
-      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23733",
-      "latency": 727.39
+      "latency": 229.21
     },
     {
       "name": "🇫🇷 France [*CIDR] VK",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-fr.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a&sni=max.ru&path=&host=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK",
-      "latency": 753.52
-    },
-    {
-      "name": "🇫🇷 France — #840",
-      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.9.65:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23840",
-      "latency": 2291.85
-    },
-    {
-      "name": "🇫🇷 France — #731",
-      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23731",
-      "latency": 2997.55
-    },
-    {
-      "name": "🇫🇷 France — #732",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23732",
-      "latency": 3140.81
-    },
-    {
-      "name": "🇫🇷 France — #729",
-      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23729",
-      "latency": 3144.8
-    },
-    {
-      "name": "🇫🇷 France — #730",
-      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23730",
-      "latency": 3186.5
-    },
-    {
-      "name": "🇫🇷 France — #726",
-      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23726",
-      "latency": 3242.66
-    },
-    {
-      "name": "🇫🇷 France — #724",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23724",
-      "latency": 3393.31
+      "latency": 526.37
     },
     {
       "name": "🇫🇷 France | 🌐 | [IPv6] [*CIDR] VK",
       "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 5042.78
+      "latency": 530.57
+    },
+    {
+      "name": "🇫🇷 France — #733",
+      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23733",
+      "latency": 1020.28
+    },
+    {
+      "name": "🇫🇷 France — #732",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23732",
+      "latency": 1780.37
+    },
+    {
+      "name": "🇫🇷 France — #731",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23731",
+      "latency": 1821.34
+    },
+    {
+      "name": "🇫🇷 France — #730",
+      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23730",
+      "latency": 1837.45
+    },
+    {
+      "name": "🇫🇷 France — #729",
+      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23729",
+      "latency": 1841.68
+    },
+    {
+      "name": "🇫🇷 France — #726",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23726",
+      "latency": 1855.82
+    },
+    {
+      "name": "🇫🇷 France — #724",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23724",
+      "latency": 1889.9
+    },
+    {
+      "name": "🇫🇷 France — #871",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23871",
+      "latency": 3773.57
+    },
+    {
+      "name": "🇫🇷 France — #869",
+      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23869",
+      "latency": 4101.26
+    },
+    {
+      "name": "🇫🇷 France — #870",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23870",
+      "latency": 4334.61
+    },
+    {
+      "name": "🇫🇷 France — #868",
+      "url": "vless://a6313689-2cfc-40bc-84d8-e9d81c20b4e4@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23868",
+      "latency": 4708.87
+    },
+    {
+      "name": "🇫🇷 France — #859",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23859",
+      "latency": 4904.89
+    },
+    {
+      "name": "🇫🇷 France — #855",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23855",
+      "latency": 5154.59
     }
   ]
 }

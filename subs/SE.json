@@ -1,53 +1,123 @@
 {
   "country": "SE",
   "flag": "🇸🇪",
-  "generated_at": "2026-03-17T21:35:41.341213Z",
-  "total": 9,
+  "generated_at": "2026-03-17T21:53:31.464414Z",
+  "total": 23,
   "configs": [
-    {
-      "name": "🇸🇪 Sweden — #1055",
-      "url": "vless://c7521622-6841-4ea7-85b3-6c7b801bcaa2@45.82.13.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=al1.persik.host&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231055",
-      "latency": 328.0
-    },
-    {
-      "name": "🇸🇪 Sweden — #1051",
-      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231051",
-      "latency": 549.71
-    },
     {
       "name": "🇸🇪 Sweden — #1265",
       "url": "vless://c7521622-6841-4ea7-85b3-6c7b801bcaa2@45.82.13.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=al1.persik.host&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231265",
-      "latency": 587.71
+      "latency": 398.27
     },
     {
-      "name": "🇸🇪 Sweden — #1054",
-      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231054",
-      "latency": 687.04
-    },
-    {
-      "name": "🇸🇪 Sweden — #1052",
-      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231052",
-      "latency": 688.91
-    },
-    {
-      "name": "🇸🇪 Sweden — #1053",
-      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231053",
-      "latency": 1027.05
+      "name": "🇸🇪 Sweden — #1055",
+      "url": "vless://c7521622-6841-4ea7-85b3-6c7b801bcaa2@45.82.13.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=al1.persik.host&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231055",
+      "latency": 1038.97
     },
     {
       "name": "🇸🇪 Sweden [*CIDR]",
       "url": "vless://c7521622-6841-4ea7-85b3-6c7b801bcaa2@al1.persik.host:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d&sni=al1.persik.host&path=&host=&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D",
-      "latency": 1234.43
+      "latency": 1177.66
+    },
+    {
+      "name": "🇸🇪 Sweden — #1261",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231261",
+      "latency": 1364.39
+    },
+    {
+      "name": "🇸🇪 Sweden — #1262",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231262",
+      "latency": 1449.57
+    },
+    {
+      "name": "🇸🇪 Sweden — #1258",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231258",
+      "latency": 1539.3
+    },
+    {
+      "name": "🇸🇪 Sweden — #1256",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231256",
+      "latency": 1735.0
+    },
+    {
+      "name": "🇸🇪 Sweden — #1254",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231254",
+      "latency": 1826.03
+    },
+    {
+      "name": "🇸🇪 Sweden — #1250",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231250",
+      "latency": 1842.54
+    },
+    {
+      "name": "🇸🇪 Sweden — #1249",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231249",
+      "latency": 1935.0
+    },
+    {
+      "name": "🇸🇪 Sweden — #1257",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231257",
+      "latency": 1998.56
+    },
+    {
+      "name": "🇸🇪 Sweden — #1251",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231251",
+      "latency": 2010.07
     },
     {
       "name": "🇸🇪 Sweden [*CIDR] VK",
       "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20VK",
-      "latency": 1826.34
+      "latency": 3723.35
     },
     {
       "name": "🇸🇪 Sweden [*CIDR] VK",
       "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20VK",
-      "latency": 2146.93
+      "latency": 3909.44
+    },
+    {
+      "name": "🇸🇪 Sweden — #1053",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231053",
+      "latency": 3956.55
+    },
+    {
+      "name": "🇸🇪 Sweden — #1054",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231054",
+      "latency": 4044.87
+    },
+    {
+      "name": "🇸🇪 Sweden — #1051",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.ozone.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231051",
+      "latency": 4140.45
+    },
+    {
+      "name": "🇸🇪 Sweden — #1052",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esa-res.online.sberbank.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231052",
+      "latency": 4230.56
+    },
+    {
+      "name": "🇸🇪 Sweden — #1048",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231048",
+      "latency": 4279.09
+    },
+    {
+      "name": "🇸🇪 Sweden — #1046",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231046",
+      "latency": 4279.18
+    },
+    {
+      "name": "🇸🇪 Sweden — #1050",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231050",
+      "latency": 4280.2
+    },
+    {
+      "name": "🇸🇪 Sweden — #1049",
+      "url": "vless://b73855fb-2ec9-4039-935a-a206dda339f8@95.163.182.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231049",
+      "latency": 4287.94
+    },
+    {
+      "name": "🇸🇪 Sweden — #1047",
+      "url": "vless://baeffc9a-d552-4330-8a2b-e2097d068254@95.163.182.92:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231047",
+      "latency": 4307.72
     }
   ]
 }

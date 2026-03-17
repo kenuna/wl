@@ -1,28 +1,28 @@
 {
   "country": "CH",
   "flag": "🇨🇭",
-  "generated_at": "2026-03-17T21:35:41.341213Z",
+  "generated_at": "2026-03-17T21:53:31.464414Z",
   "total": 4,
   "configs": [
     {
       "name": "🇨🇭 Switzerland — #162",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@95.163.215.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=OXhQDFxzuGySr_2ljWiaW4-jyF6GHQ-tYz4xvLujmBc&sid=2a752b0d4d15e0f9#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23162",
-      "latency": 309.18
+      "latency": 298.01
     },
     {
       "name": "🇨🇭 Switzerland — #148",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@95.163.215.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=OXhQDFxzuGySr_2ljWiaW4-jyF6GHQ-tYz4xvLujmBc&sid=2a752b0d4d15e0f9#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23148",
-      "latency": 788.59
-    },
-    {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-sw.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=OXhQDFxzuGySr_2ljWiaW4-jyF6GHQ-tYz4xvLujmBc&sid=2a752b0d4d15e0f9&sni=max.ru&path=&host=#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 1139.3
+      "latency": 576.17
     },
     {
       "name": "🇨🇭 Switzerland [*CIDR] VK",
       "url": "vless://cbe7f37c-cd67-439b-bc16-949b3bc556a7@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 1265.75
+      "latency": 1135.87
+    },
+    {
+      "name": "🇨🇭 Switzerland [*CIDR] VK",
+      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-sw.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=OXhQDFxzuGySr_2ljWiaW4-jyF6GHQ-tYz4xvLujmBc&sid=2a752b0d4d15e0f9&sni=max.ru&path=&host=#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
+      "latency": 1141.58
     }
   ]
 }

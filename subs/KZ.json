@@ -1,23 +1,23 @@
 {
   "country": "KZ",
   "flag": "🇰🇿",
-  "generated_at": "2026-03-17T21:35:41.341213Z",
+  "generated_at": "2026-03-17T21:53:31.464414Z",
   "total": 3,
   "configs": [
     {
-      "name": "🇰🇿 Kazakhstan — #975",
-      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23975",
-      "latency": 663.28
-    },
-    {
       "name": "🇰🇿 Kazakhstan — #818",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23818",
-      "latency": 670.26
+      "latency": 689.57
+    },
+    {
+      "name": "🇰🇿 Kazakhstan — #975",
+      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@87.239.105.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23975",
+      "latency": 725.44
     },
     {
       "name": "🇰🇿 Kazakhstan [*CIDR] VK",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-kz.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17&sni=eh.vk.com&path=&host=#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D%20VK",
-      "latency": 1107.07
+      "latency": 1004.57
     }
   ]
 }
