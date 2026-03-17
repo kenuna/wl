@@ -1,13 +1,18 @@
 {
   "country": "AT",
   "flag": "🇦🇹",
-  "generated_at": "2026-03-17T13:52:45.418631Z",
-  "total": 1,
+  "generated_at": "2026-03-17T16:17:24.670744Z",
+  "total": 2,
   "configs": [
     {
-      "name": "🇦🇹 Austria — #133",
-      "url": "vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.129.64:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=aucdn3.animetut.net#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%23133",
-      "latency": 2109.02
+      "name": "🇦🇹 Austria — #87",
+      "url": "vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.129.64:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=aucdn3.animetut.net#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2387",
+      "latency": 1660.21
+    },
+    {
+      "name": "🇦🇹 Austria — #88",
+      "url": "vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.129.64:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=aucdn3.animetut.net#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2388",
+      "latency": 1917.6
     }
   ]
 }
