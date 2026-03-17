@@ -1,13 +1,13 @@
 {
   "country": "CH",
   "flag": "🇨🇭",
-  "generated_at": "2026-03-17T18:56:26.175099Z",
+  "generated_at": "2026-03-17T20:24:28.727233Z",
   "total": 1,
   "configs": [
     {
-      "name": "🇨🇭 Switzerland — #110",
-      "url": "vless://cbe7f37c-cd67-439b-bc16-949b3bc556a7@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23110",
-      "latency": 4638.34
+      "name": "🇨🇭 Switzerland [*CIDR] VK",
+      "url": "vless://cbe7f37c-cd67-439b-bc16-949b3bc556a7@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
+      "latency": 2251.43
     }
   ]
 }
