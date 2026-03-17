@@ -1,93 +1,88 @@
 {
   "country": "SE",
   "flag": "🇸🇪",
-  "generated_at": "2026-03-17T13:35:17.787318Z",
-  "total": 17,
+  "generated_at": "2026-03-17T13:52:45.418631Z",
+  "total": 16,
   "configs": [
-    {
-      "name": "🇸🇪 Sweden — #1184",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231184",
-      "latency": 451.27
-    },
-    {
-      "name": "🇸🇪 Sweden — #1189",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231189",
-      "latency": 525.46
-    },
-    {
-      "name": "🇸🇪 Sweden — #1188",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231188",
-      "latency": 719.15
-    },
-    {
-      "name": "🇸🇪 Sweden — #1190",
-      "url": "vless://1b1dbf65-6615-4ec1-909a-09b2a1df4abc@146.185.210.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=NdsEcB_ts3yRYjovC8Ks4cpe56QWhot0D4njOApLeWI&sid=f4e2b8971d5c3a9f#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231190",
-      "latency": 724.33
-    },
-    {
-      "name": "🇸🇪 Sweden — #1185",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231185",
-      "latency": 748.07
-    },
-    {
-      "name": "🇸🇪 Sweden — #1062",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231062",
-      "latency": 982.71
-    },
-    {
-      "name": "🇸🇪 Sweden — #1061",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231061",
-      "latency": 1042.41
-    },
-    {
-      "name": "🇸🇪 Sweden — #1187",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=iCcg60DfXrWy3R5wOAbIhNZNnBqwgsCq9ZLUYh7lsB8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231187",
-      "latency": 1100.63
-    },
-    {
-      "name": "🇸🇪 Sweden — #1057",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231057",
-      "latency": 1260.29
-    },
-    {
-      "name": "🇸🇪 Sweden — #1060",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=iCcg60DfXrWy3R5wOAbIhNZNnBqwgsCq9ZLUYh7lsB8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231060",
-      "latency": 1451.87
-    },
-    {
-      "name": "🇸🇪 Sweden — #1056",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=tIHa249H9L7bLnch0cJdw-RZvAlIqhmKwlX09jHVvHU&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231056",
-      "latency": 1575.08
-    },
-    {
-      "name": "🇸🇪 Sweden — #1058",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231058",
-      "latency": 1724.68
-    },
-    {
-      "name": "🇸🇪 Sweden — #1183",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=tIHa249H9L7bLnch0cJdw-RZvAlIqhmKwlX09jHVvHU&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231183",
-      "latency": 1771.49
-    },
-    {
-      "name": "🇸🇪 Sweden — #1059",
-      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231059",
-      "latency": 2072.37
-    },
-    {
-      "name": "🇸🇪 Sweden — #1063",
-      "url": "vless://1b1dbf65-6615-4ec1-909a-09b2a1df4abc@146.185.210.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=NdsEcB_ts3yRYjovC8Ks4cpe56QWhot0D4njOApLeWI&sid=f4e2b8971d5c3a9f#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231063",
-      "latency": 3564.87
-    },
     {
       "name": "🇸🇪 Sweden — #1186",
       "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231186",
-      "latency": 3656.97
+      "latency": 293.86
     },
     {
       "name": "🇸🇪 Sweden — #1182",
       "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.ru&pbk=_clqzJ8ZkSG71dSLu5KfRB9NJf63uBbdlDFZ4hp1uBE&sid=3d9bfa9202efd228&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231182",
-      "latency": 3900.16
+      "latency": 418.56
+    },
+    {
+      "name": "🇸🇪 Sweden — #1189",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231189",
+      "latency": 464.54
+    },
+    {
+      "name": "🇸🇪 Sweden — #1184",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231184",
+      "latency": 484.01
+    },
+    {
+      "name": "🇸🇪 Sweden — #1188",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231188",
+      "latency": 491.09
+    },
+    {
+      "name": "🇸🇪 Sweden — #1061",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231061",
+      "latency": 781.76
+    },
+    {
+      "name": "🇸🇪 Sweden — #1062",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231062",
+      "latency": 805.79
+    },
+    {
+      "name": "🇸🇪 Sweden — #1057",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231057",
+      "latency": 916.27
+    },
+    {
+      "name": "🇸🇪 Sweden — #1185",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231185",
+      "latency": 997.24
+    },
+    {
+      "name": "🇸🇪 Sweden — #1060",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=iCcg60DfXrWy3R5wOAbIhNZNnBqwgsCq9ZLUYh7lsB8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231060",
+      "latency": 1181.58
+    },
+    {
+      "name": "🇸🇪 Sweden — #1055",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.ru&pbk=_clqzJ8ZkSG71dSLu5KfRB9NJf63uBbdlDFZ4hp1uBE&sid=3d9bfa9202efd228&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231055",
+      "latency": 1786.93
+    },
+    {
+      "name": "🇸🇪 Sweden — #1059",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231059",
+      "latency": 1791.23
+    },
+    {
+      "name": "🇸🇪 Sweden — #1183",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=tIHa249H9L7bLnch0cJdw-RZvAlIqhmKwlX09jHVvHU&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231183",
+      "latency": 1998.69
+    },
+    {
+      "name": "🇸🇪 Sweden — #1056",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=tIHa249H9L7bLnch0cJdw-RZvAlIqhmKwlX09jHVvHU&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231056",
+      "latency": 2200.54
+    },
+    {
+      "name": "🇸🇪 Sweden — #1058",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231058",
+      "latency": 2552.16
+    },
+    {
+      "name": "🇸🇪 Sweden — #1187",
+      "url": "vless://5da2821e-01ef-4e23-b673-cc564073a04e@51.250.40.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=iCcg60DfXrWy3R5wOAbIhNZNnBqwgsCq9ZLUYh7lsB8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231187",
+      "latency": 3572.64
     }
   ]
 }
