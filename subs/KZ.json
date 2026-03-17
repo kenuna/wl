@@ -1,18 +1,13 @@
 {
   "country": "KZ",
   "flag": "🇰🇿",
-  "generated_at": "2026-03-16T20:07:52.760041Z",
-  "total": 2,
+  "generated_at": "2026-03-17T08:28:03.983526Z",
+  "total": 1,
   "configs": [
     {
-      "name": "🇰🇿 Kazakhstan — #452",
-      "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23452",
-      "latency": 496.18
-    },
-    {
-      "name": "🇰🇿 Kazakhstan — #550",
-      "url": "vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@87.239.105.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=eiz24a6yDleJ94u--ArglngqJdqQp55u2uW1rsO3vx0&sid=946655b57cc58a17#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23550",
-      "latency": 1238.74
+      "name": "🇰🇿 Kazakhstan | 🌐 | [IPv6] [SNI-RU] www.api-maps.yandex.ru",
+      "url": "vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20www.api-maps.yandex.ru",
+      "latency": 1521.26
     }
   ]
 }
