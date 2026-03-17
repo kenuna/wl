@@ -1,23 +1,23 @@
 {
   "country": "JP",
   "flag": "🇯🇵",
-  "generated_at": "2026-03-17T21:53:31.464414Z",
+  "generated_at": "2026-03-17T22:01:43.409594Z",
   "total": 3,
   "configs": [
     {
-      "name": "🇯🇵 Japan — #817",
-      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@212.111.85.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0x0HiUs6KbweEd9ndPG1arMr1I-TbtB1Ok-D_hdlbWc&sid=bf3c4c10ca44241a#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%E2%80%94%20%23817",
-      "latency": 1352.56
-    },
-    {
       "name": "🇯🇵 Japan — #973",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@212.111.85.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0x0HiUs6KbweEd9ndPG1arMr1I-TbtB1Ok-D_hdlbWc&sid=bf3c4c10ca44241a#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%E2%80%94%20%23973",
-      "latency": 1422.03
+      "latency": 1409.23
+    },
+    {
+      "name": "🇯🇵 Japan — #817",
+      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@212.111.85.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0x0HiUs6KbweEd9ndPG1arMr1I-TbtB1Ok-D_hdlbWc&sid=bf3c4c10ca44241a#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%E2%80%94%20%23817",
+      "latency": 1437.03
     },
     {
       "name": "🇯🇵 Japan [*CIDR] VK",
       "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-jp.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0x0HiUs6KbweEd9ndPG1arMr1I-TbtB1Ok-D_hdlbWc&sid=bf3c4c10ca44241a&sni=ads.x5.ru&path=&host=#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D%20VK",
-      "latency": 1680.12
+      "latency": 2054.34
     }
   ]
 }
