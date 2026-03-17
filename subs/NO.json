@@ -1,63 +1,63 @@
 {
   "country": "NO",
   "flag": "🇳🇴",
-  "generated_at": "2026-03-17T02:42:44.138145Z",
+  "generated_at": "2026-03-17T03:00:07.488689Z",
   "total": 11,
   "configs": [
     {
       "name": "🇳🇴 Norway — #893",
       "url": "vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23893",
-      "latency": 230.92
-    },
-    {
-      "name": "🇳🇴 Norway — #764",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23764",
-      "latency": 438.09
-    },
-    {
-      "name": "🇳🇴 Norway — #762",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@90.156.214.82:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23762",
-      "latency": 483.91
+      "latency": 200.4
     },
     {
       "name": "🇳🇴 Norway — #895",
       "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@84.23.52.105:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23895",
-      "latency": 661.32
-    },
-    {
-      "name": "🇳🇴 Norway [SNI-RU] max.ru",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@craftmymine.ru:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5BSNI-RU%5D%20max.ru",
-      "latency": 743.47
+      "latency": 468.21
     },
     {
       "name": "🇳🇴 Norway — #761",
       "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@84.23.52.105:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23761",
-      "latency": 1047.2
-    },
-    {
-      "name": "🇳🇴 Norway — #763",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23763",
-      "latency": 1697.73
-    },
-    {
-      "name": "🇳🇴 Norway [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20VK",
-      "latency": 1719.17
-    },
-    {
-      "name": "🇳🇴 Norway — #898",
-      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23898",
-      "latency": 1789.67
+      "latency": 472.35
     },
     {
       "name": "🇳🇴 Norway — #897",
       "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23897",
-      "latency": 1852.49
+      "latency": 482.66
+    },
+    {
+      "name": "🇳🇴 Norway — #764",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23764",
+      "latency": 580.6
+    },
+    {
+      "name": "🇳🇴 Norway — #762",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@90.156.214.82:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23762",
+      "latency": 663.23
     },
     {
       "name": "🇳🇴 Norway — #896",
       "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@90.156.214.82:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23896",
-      "latency": 1993.91
+      "latency": 1176.94
+    },
+    {
+      "name": "🇳🇴 Norway [SNI-RU] max.ru",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@craftmymine.ru:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5BSNI-RU%5D%20max.ru",
+      "latency": 1261.37
+    },
+    {
+      "name": "🇳🇴 Norway [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20VK",
+      "latency": 1398.04
+    },
+    {
+      "name": "🇳🇴 Norway — #898",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23898",
+      "latency": 1674.17
+    },
+    {
+      "name": "🇳🇴 Norway — #763",
+      "url": "vless://29aab552-bfbb-05dc-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%23763",
+      "latency": 1778.82
     }
   ]
 }
