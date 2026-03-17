@@ -1,53 +1,43 @@
 {
   "country": "NL",
   "flag": "🇳🇱",
-  "generated_at": "2026-03-17T09:02:28.741872Z",
-  "total": 9,
+  "generated_at": "2026-03-17T09:19:34.513689Z",
+  "total": 7,
   "configs": [
     {
-      "name": "🇳🇱 The Netherlands — #711",
-      "url": "vless://4754e20c-312f-4f13-979b-374b65fc192b@50.7.176.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23711",
-      "latency": 789.81
+      "name": "🇳🇱 The Netherlands — #643",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23643",
+      "latency": 1408.42
     },
     {
-      "name": "🇳🇱 The Netherlands — #545",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23545",
-      "latency": 2019.26
+      "name": "🇳🇱 The Netherlands — #654",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23654",
+      "latency": 2200.05
+    },
+    {
+      "name": "🇳🇱 The Netherlands — #659",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23659",
+      "latency": 5166.58
+    },
+    {
+      "name": "🇳🇱 The Netherlands — #560",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23560",
+      "latency": 5173.87
     },
     {
       "name": "🇳🇱 The Netherlands [*CIDR]",
       "url": "vless://4754e20c-312f-4f13-979b-374b65fc192b@185.236.20.254:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D",
-      "latency": 2508.7
+      "latency": 5547.91
     },
     {
-      "name": "🇳🇱 The Netherlands — #549",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23549",
-      "latency": 2855.83
+      "name": "🇳🇱 The Netherlands — #502",
+      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=48#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23502",
+      "latency": 5775.73
     },
     {
-      "name": "🇳🇱 The Netherlands — #590",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23590",
-      "latency": 2997.37
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #655",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23655",
-      "latency": 3119.1
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #540",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23540",
-      "latency": 4087.35
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #636",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23636",
-      "latency": 4425.09
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #482",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23482",
-      "latency": 4559.96
+      "name": "🇳🇱 The Netherlands — #548",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23548",
+      "latency": 6038.16
     }
   ]
 }
