@@ -1,13 +1,18 @@
 {
   "country": "IN",
   "flag": "🇮🇳",
-  "generated_at": "2026-03-17T16:35:09.667491Z",
-  "total": 1,
+  "generated_at": "2026-03-17T16:52:56.531252Z",
+  "total": 2,
   "configs": [
+    {
+      "name": "🇮🇳 India — #706",
+      "url": "vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=g.sandesh.qzz.io&sni=g.sandesh.qzz.io#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23706",
+      "latency": 1277.24
+    },
     {
       "name": "🇮🇳 India — #858",
       "url": "vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=g.sandesh.qzz.io&sni=g.sandesh.qzz.io#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23858",
-      "latency": 1385.63
+      "latency": 4416.41
     }
   ]
 }
