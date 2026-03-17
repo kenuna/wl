@@ -1,93 +1,58 @@
 {
   "country": "NL",
   "flag": "🇳🇱",
-  "generated_at": "2026-03-17T04:43:21.247944Z",
-  "total": 17,
+  "generated_at": "2026-03-17T05:00:37.458907Z",
+  "total": 10,
   "configs": [
     {
       "name": "🇳🇱 The Netherlands — #839",
       "url": "vless://932130c7-197b-4b37-af26-d550c47ba8f4@45.151.62.19:443?encryption=none&type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23839",
-      "latency": 240.64
+      "latency": 243.4
     },
     {
       "name": "🇳🇱 The Netherlands — #820",
       "url": "vless://932130c7-197b-4b37-af26-d550c47ba8f4@45.151.62.19:443?encryption=none&type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23820",
-      "latency": 266.52
+      "latency": 371.38
     },
     {
-      "name": "🇳🇱 The Netherlands — #701",
-      "url": "vless://fe795240-7c30-4bfc-9549-a9ef74c46b62@84.201.130.202:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=p72pgY_U4OlrdUiXzNNFB-Xi8VcI9_UfxXhYIXccTjo&sid=b6f10ec091&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23701",
-      "latency": 890.09
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #700",
-      "url": "vless://832feb7a-6f9a-470e-a704-48e0b00ba486@51.250.39.173:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=54ff9KaMzG_HA7c9AGCCmSDhHoMKYfvAN-8g1kMURl4&sid=f1fe5c9ca8&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23700",
-      "latency": 1134.03
-    },
-    {
-      "name": "🇳🇱 The Netherlands | 🌐 [SNI-RU] static.rutube.ru",
-      "url": "vless://669be00c-67b4-4b87-b08f-311c45abced2@ru-bridge.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&fp=random&security=reality&pbk=cjM-gNYIiNglmuM7AUymiDT6InmwdtWoSUeeMEONj0w&sid=aaaaaaaa#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20static.rutube.ru",
-      "latency": 2315.72
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #771",
-      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:2096?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=72#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23771",
-      "latency": 2595.58
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #733",
-      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=48#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23733",
-      "latency": 2898.79
+      "name": "🇳🇱 The Netherlands — #835",
+      "url": "vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=nl13.maxriser.ir&fp=chrome&sni=nl13.maxriser.ir#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23835",
+      "latency": 449.17
     },
     {
       "name": "🇳🇱 The Netherlands — #830",
       "url": "vless://832feb7a-6f9a-470e-a704-48e0b00ba486@51.250.39.173:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=54ff9KaMzG_HA7c9AGCCmSDhHoMKYfvAN-8g1kMURl4&sid=f1fe5c9ca8&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23830",
-      "latency": 3538.5
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #831",
-      "url": "vless://fe795240-7c30-4bfc-9549-a9ef74c46b62@84.201.130.202:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=p72pgY_U4OlrdUiXzNNFB-Xi8VcI9_UfxXhYIXccTjo&sid=b6f10ec091&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23831",
-      "latency": 3580.55
-    },
-    {
-      "name": "🇳🇱 The Netherlands [*CIDR] VK",
-      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=48#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
-      "latency": 3917.02
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #634",
-      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:2053?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=61#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23634",
-      "latency": 4204.99
+      "latency": 682.53
     },
     {
       "name": "🇳🇱 The Netherlands — #628",
       "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=48#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23628",
-      "latency": 4284.05
+      "latency": 1127.42
     },
     {
-      "name": "🇳🇱 The Netherlands — #665",
-      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:2087?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=59#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23665",
-      "latency": 4516.97
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #627",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23627",
-      "latency": 4790.12
-    },
-    {
-      "name": "🇳🇱 The Netherlands — #809",
-      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23809",
-      "latency": 4890.35
+      "name": "🇳🇱 The Netherlands — #831",
+      "url": "vless://fe795240-7c30-4bfc-9549-a9ef74c46b62@84.201.130.202:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=p72pgY_U4OlrdUiXzNNFB-Xi8VcI9_UfxXhYIXccTjo&sid=b6f10ec091&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23831",
+      "latency": 2334.42
     },
     {
       "name": "🇳🇱 The Netherlands — #666",
       "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:2096?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=72#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23666",
-      "latency": 4908.02
+      "latency": 2661.52
     },
     {
-      "name": "🇳🇱 The Netherlands — #616",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23616",
-      "latency": 5167.91
+      "name": "🇳🇱 The Netherlands — #700",
+      "url": "vless://832feb7a-6f9a-470e-a704-48e0b00ba486@51.250.39.173:8443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=54ff9KaMzG_HA7c9AGCCmSDhHoMKYfvAN-8g1kMURl4&sid=f1fe5c9ca8&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23700",
+      "latency": 2879.63
+    },
+    {
+      "name": "🇳🇱 The Netherlands — #633",
+      "url": "vless://f3e46ad4-8000-435b-b941-7a7fc619729a@79.137.174.6:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=37#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23633",
+      "latency": 4193.59
+    },
+    {
+      "name": "🇳🇱 The Netherlands [*CIDR] VK",
+      "url": "vless://06d70b68-279b-4b2c-b6e3-ca0b20b4e348@90.156.217.229:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sni=rbc.ru&sid=331a8c3fe668c1ee#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
+      "latency": 5031.68
     }
   ]
 }

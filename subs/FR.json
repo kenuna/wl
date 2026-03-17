@@ -1,28 +1,18 @@
 {
   "country": "FR",
   "flag": "🇫🇷",
-  "generated_at": "2026-03-17T04:43:21.247944Z",
-  "total": 4,
+  "generated_at": "2026-03-17T05:00:37.458907Z",
+  "total": 2,
   "configs": [
     {
-      "name": "🇫🇷 France [*CIDR] YA",
-      "url": "vless://2254f987-055f-4f7f-b53f-fd77a9443744@51.250.17.51:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
-      "latency": 1047.01
+      "name": "🇫🇷 France — #645",
+      "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23645",
+      "latency": 1245.37
     },
     {
-      "name": "🇫🇷 France [*CIDR] YA",
-      "url": "vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@51.250.17.51:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
-      "latency": 1047.5
-    },
-    {
-      "name": "🇫🇷 France [*CIDR] YA",
-      "url": "vless://7dc5d455-5ce5-4d6a-a9fa-ba69132133c7@51.250.17.51:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=max.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
-      "latency": 1095.55
-    },
-    {
-      "name": "🇫🇷 France [*CIDR] YA",
-      "url": "vless://70ea6634-c619-4cc5-b0ba-547544887eaf@51.250.17.51:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
-      "latency": 1212.68
+      "name": "🇫🇷 France — #554",
+      "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23554",
+      "latency": 1577.62
     }
   ]
 }
