@@ -1,18 +1,13 @@
 {
   "country": "IN",
   "flag": "🇮🇳",
-  "generated_at": "2026-03-17T17:45:45.992764Z",
-  "total": 2,
+  "generated_at": "2026-03-17T21:17:50.073233Z",
+  "total": 1,
   "configs": [
     {
-      "name": "🇮🇳 India — #852",
-      "url": "vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=g.sandesh.qzz.io&sni=g.sandesh.qzz.io#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23852",
-      "latency": 1259.01
-    },
-    {
-      "name": "🇮🇳 India — #701",
-      "url": "vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=g.sandesh.qzz.io&sni=g.sandesh.qzz.io#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23701",
-      "latency": 3970.32
+      "name": "🇮🇳 India [*CIDR] VK",
+      "url": "vless://a0a70922-a539-4188-9273-ceef2131af36@most-in.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=g6sT2b5vXWhCZx2e5xpbi8fyolCh81SdKA-4KLWvaAU&sid=2a752b0d4d15e0f9&sni=max.ru&path=&host=#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B%2ACIDR%5D%20VK",
+      "latency": 1415.71
     }
   ]
 }
