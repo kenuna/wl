@@ -1,143 +1,38 @@
 {
   "country": "XX",
   "flag": "🇽🇽",
-  "generated_at": "2026-03-17T19:49:15.779326Z",
-  "total": 27,
+  "generated_at": "2026-03-17T20:06:49.817890Z",
+  "total": 6,
   "configs": [
     {
-      "name": "🌐 Anycast-IP | [IPv6] [*CIDR] VK",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 240.72
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://6f6445da-a752-07d0-8ae1-1eb1110ddcf4@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 418.91
-    },
-    {
-      "name": "🌐 Anycast-IP | [IPv6] [*CIDR] VK",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 468.26
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://6f6445da-a752-01f4-8ae1-1eb1110ddcf4@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 526.86
+      "name": "🌐 Anycast-IP | [IPv6] [*CIDR]",
+      "url": "vless://547e53a8-4b98-4f12-97c9-8f2b40a10c55@nl-ams-5.blook.network:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VcBxJnmuJ3mlh8SqOEncKIFdAlIxhjlfIa252CPcm1w&sid=a72771b7&sni=nl-ams-5.blook.network&spx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
+      "latency": 1006.21
     },
     {
       "name": "🌐 Anycast-IP | [IPv6] [*CIDR]",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
-      "latency": 1086.87
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://754dfc91-8b6c-01f4-905f-47480387e8a4@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1139.5
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://40b1e7f3-2471-4bea-8451-30682922dcc8@217.16.27.250:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=vkvideo.ru&pbk=dJL2yGuBe-moYv-cHHGZo-P6RhY0g1eHMil0LoaFc1M&sid=d5ace6e96f4d8e29#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1183.03
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
+      "latency": 1466.34
     },
     {
       "name": "🌐 Anycast-IP | [IPv6] [*CIDR]",
       "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
-      "latency": 1231.68
+      "latency": 1542.07
     },
     {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@ger.ilovemax.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1316.9
+      "name": "🌐 Anycast-IP | [IPv6] [*CIDR]",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=zgtwylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
+      "latency": 1590.21
     },
     {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://a22f6494-f371-1f40-bad0-8df9594b8e45@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1489.02
+      "name": "🌐 Anycast-IP | [IPv6] [*CIDR]",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D",
+      "latency": 1608.64
     },
     {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@ger.ilovemax.ru:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1618.31
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-07d0-83ac-24362c278c06@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1818.66
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://e928d85d-f223-01f4-a1d2-a56e9fbd50e0@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1850.61
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-03e8-83ac-24362c278c06@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 1900.49
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@ger.ilovemax.ru:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 2020.69
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-07d0-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 2163.18
-    },
-    {
-      "name": "🌐 Anycast-IP | [IPv6] [*CIDR] VK",
-      "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@ger.ilovemax.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 2310.65
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://dbebcaef-4cc8-1f40-888b-2962aae2e5d3@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 2390.23
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-01f4-83ac-24362c278c06@89.208.231.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 2541.84
-    },
-    {
-      "name": "🌐 Anycast-IP | [IPv6] [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 2597.96
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://6f6445da-a752-07d0-8ae1-1eb1110ddcf4@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 2621.52
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-01f4-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 3083.2
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://f4ab40c6-3f49-03e8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 3508.15
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://a22f6494-f371-03e8-bad0-8df9594b8e45@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 3787.91
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://e928d85d-f223-01f4-a1d2-a56e9fbd50e0@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 4521.58
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://754dfc91-8b6c-01f4-905f-47480387e8a4@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 4761.34
-    },
-    {
-      "name": "🌐 Anycast-IP [*CIDR] VK",
-      "url": "vless://6f6445da-a752-01f4-8ae1-1eb1110ddcf4@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK",
-      "latency": 4777.98
+      "name": "🌐 Anycast-IP [*CIDR]",
+      "url": "vless://f6eb5903-35ae-42d0-b60a-9e01e51e6d99@85.215.149.151:43881?security=reality&flow=xtls-rprx-vision&sni=amazon.com&type=tcp&fp=random&pbk=0OjbaFdJ3LVEpRBR4dfX2dnZK5ZdBGK58lKbvPaABg8&sid=6b7294d7b5ec#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D",
+      "latency": 3796.8
     }
   ]
 }
