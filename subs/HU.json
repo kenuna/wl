@@ -1,23 +1,38 @@
 {
   "country": "HU",
   "flag": "🇭🇺",
-  "generated_at": "2026-03-17T14:29:01.094462Z",
-  "total": 3,
+  "generated_at": "2026-03-17T14:47:03.598747Z",
+  "total": 6,
   "configs": [
     {
-      "name": "🇭🇺 Hungary — #896",
-      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@5.182.38.168:81?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.sh21.eu.org&fp=chrome&sni=snippet.sh21.eu.org#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23896",
-      "latency": 1077.86
+      "name": "🇭🇺 Hungary — #897",
+      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=b0&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23897",
+      "latency": 1854.71
     },
     {
-      "name": "🇭🇺 Hungary — #760",
-      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=b0&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23760",
-      "latency": 2498.37
+      "name": "🇭🇺 Hungary — #899",
+      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=market.yandex.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=fa9cb050466226&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23899",
+      "latency": 1974.72
+    },
+    {
+      "name": "🇭🇺 Hungary — #898",
+      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=b0&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23898",
+      "latency": 2082.14
     },
     {
       "name": "🇭🇺 Hungary — #759",
       "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=b0&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23759",
-      "latency": 2610.05
+      "latency": 2185.7
+    },
+    {
+      "name": "🇭🇺 Hungary — #760",
+      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=b0&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23760",
+      "latency": 2296.91
+    },
+    {
+      "name": "🇭🇺 Hungary — #761",
+      "url": "vless://68f9821b-dbc0-4ca9-adae-953d953d4158@83.166.255.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=market.yandex.ru&pbk=O1sKa_7FeblDNmUCIc2Bc-msrjp_MX2lONO56O9kGHw&sid=fa9cb050466226&spx=%2F#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23761",
+      "latency": 2348.1
     }
   ]
 }
