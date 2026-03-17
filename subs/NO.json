@@ -1,18 +1,18 @@
 {
   "country": "NO",
   "flag": "🇳🇴",
-  "generated_at": "2026-03-17T19:31:38.138855Z",
+  "generated_at": "2026-03-17T19:49:15.779326Z",
   "total": 2,
   "configs": [
     {
-      "name": "🇳🇴 Norway — #1085",
-      "url": "vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%231085",
-      "latency": 4789.11
-    },
-    {
       "name": "🇳🇴 Norway — #1087",
       "url": "vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%231087",
-      "latency": 4839.63
+      "latency": 1662.03
+    },
+    {
+      "name": "🇳🇴 Norway — #1085",
+      "url": "vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%E2%80%94%20%231085",
+      "latency": 1667.69
     }
   ]
 }
