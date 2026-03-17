@@ -1,243 +1,358 @@
 {
   "country": "US",
   "flag": "🇺🇸",
-  "generated_at": "2026-03-16T23:50:33.366821Z",
-  "total": 47,
+  "generated_at": "2026-03-17T00:07:42.772465Z",
+  "total": 70,
   "configs": [
     {
-      "name": "🇺🇸 United States — #854",
-      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23854",
-      "latency": 248.74
+      "name": "🇺🇸 United States — #1150",
+      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231150",
+      "latency": 244.6
     },
     {
-      "name": "🇺🇸 United States — #855",
-      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@83.166.254.231:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23855",
-      "latency": 438.77
-    },
-    {
-      "name": "🇺🇸 United States — #856",
-      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23856",
-      "latency": 493.03
-    },
-    {
-      "name": "🇺🇸 United States — #857",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23857",
-      "latency": 858.47
-    },
-    {
-      "name": "🇺🇸 US | — | 588 | @ByeWhiteLists2",
-      "url": "vless://d1209ffb-c159-48d5-b40d-542ce11fc768@auto.api-user.com:10121?security=reality&encryption=none&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9c2a7d4e5f18b6a3#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20588%20%7C%20%40ByeWhiteLists2",
-      "latency": 1143.09
-    },
-    {
-      "name": "🇺🇸 United States — #1036",
-      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231036",
-      "latency": 1147.75
-    },
-    {
-      "name": "🇺🇸 United States — #926",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=zgtwylnhh.cc.cd&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23926",
-      "latency": 1176.26
-    },
-    {
-      "name": "🇺🇸 US | — | 39 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2039%20%7C%20%40ByeWhiteLists2",
-      "latency": 1284.38
-    },
-    {
-      "name": "🇺🇸 United States — #965",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:2053?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=zgtwylnhh.cc.cd&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23965",
-      "latency": 1311.19
-    },
-    {
-      "name": "🇺🇸 United States — #948",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.61.140.116:443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23948",
-      "latency": 1364.12
-    },
-    {
-      "name": "🇺🇸 US | — | 585 | @ByeWhiteLists2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20585%20%7C%20%40ByeWhiteLists2",
-      "latency": 1393.33
-    },
-    {
-      "name": "🇺🇸 US | — | 32 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2032%20%7C%20%40ByeWhiteLists2",
-      "latency": 1396.57
-    },
-    {
-      "name": "🇺🇸 US | — | 16 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2016%20%7C%20%40ByeWhiteLists2",
-      "latency": 1438.96
-    },
-    {
-      "name": "🇺🇸 United States — #1022",
-      "url": "vless://ce41165d-f134-4ad4-ac73-a4b2f19595ed@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231022",
-      "latency": 1444.5
-    },
-    {
-      "name": "🇺🇸 US | — | 49 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2049%20%7C%20%40ByeWhiteLists2",
-      "latency": 1446.69
-    },
-    {
-      "name": "🇺🇸 US | — | 2 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%202%20%7C%20%40ByeWhiteLists2",
-      "latency": 1470.07
-    },
-    {
-      "name": "🇺🇸 United States — #1039",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231039",
-      "latency": 1477.06
-    },
-    {
-      "name": "🇺🇸 US | — | 586 | @ByeWhiteLists2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.61.140.116:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20586%20%7C%20%40ByeWhiteLists2",
-      "latency": 1505.72
-    },
-    {
-      "name": "🇺🇸 US | — | 14 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2014%20%7C%20%40ByeWhiteLists2",
-      "latency": 1528.89
-    },
-    {
-      "name": "🇺🇸 United States | 🌐 [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
-      "latency": 1534.74
-    },
-    {
-      "name": "🇺🇸 US | — | 7 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%207%20%7C%20%40ByeWhiteLists2",
-      "latency": 1550.72
+      "name": "🇺🇸 US | — | 6 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%206%20%7C%20%40ByeWhiteLists2",
+      "latency": 260.21
     },
     {
       "name": "🇺🇸 US | — | 5 | @ByeWhiteLists2",
       "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%205%20%7C%20%40ByeWhiteLists2",
-      "latency": 1551.53
+      "latency": 280.84
     },
     {
-      "name": "🇺🇸 US | — | 4 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%204%20%7C%20%40ByeWhiteLists2",
-      "latency": 1551.99
+      "name": "🇺🇸 US | — | 1 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%201%20%7C%20%40ByeWhiteLists2",
+      "latency": 305.1
     },
     {
       "name": "🇺🇸 US | — | 3 | @ByeWhiteLists2",
       "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%203%20%7C%20%40ByeWhiteLists2",
-      "latency": 1557.7
+      "latency": 309.9
     },
     {
-      "name": "🇺🇸 US | — | 9 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?type=ws&security=tls&encryption=none&fp=randomized&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%209%20%7C%20%40ByeWhiteLists2",
-      "latency": 1559.98
+      "name": "🇺🇸 US | — | 4 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%204%20%7C%20%40ByeWhiteLists2",
+      "latency": 324.23
+    },
+    {
+      "name": "🇺🇸 US | — | 2 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%202%20%7C%20%40ByeWhiteLists2",
+      "latency": 342.12
+    },
+    {
+      "name": "🇺🇸 US | — | 10 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2010%20%7C%20%40ByeWhiteLists2",
+      "latency": 381.62
+    },
+    {
+      "name": "🇺🇸 United States — #972",
+      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23972",
+      "latency": 397.33
+    },
+    {
+      "name": "🇺🇸 US | — | 11 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.96.3:443?type=ws&security=tls&encryption=none&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2011%20%7C%20%40ByeWhiteLists2",
+      "latency": 410.08
     },
     {
       "name": "🇺🇸 US | — | 8 | @ByeWhiteLists2",
       "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%208%20%7C%20%40ByeWhiteLists2",
-      "latency": 1565.93
+      "latency": 423.48
     },
     {
-      "name": "🇺🇸 United States — #955",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:8443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23955",
-      "latency": 1615.16
+      "name": "🇺🇸 US | — | 7 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%207%20%7C%20%40ByeWhiteLists2",
+      "latency": 457.34
     },
     {
-      "name": "🇺🇸 United States [*CIDR] VK",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK",
-      "latency": 1616.83
+      "name": "🇺🇸 US | — | 9 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?type=ws&security=tls&encryption=none&fp=randomized&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%209%20%7C%20%40ByeWhiteLists2",
+      "latency": 460.77
     },
     {
-      "name": "🇺🇸 United States — #708",
-      "url": "vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.56.251:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bmk.1xq.indevs.in&sni=bmk.1xq.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23708",
-      "latency": 1681.57
+      "name": "🇺🇸 US | — | 13 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2013%20%7C%20%40ByeWhiteLists2",
+      "latency": 463.49
     },
     {
-      "name": "🇺🇸 United States — #1038",
-      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231038",
-      "latency": 1717.58
+      "name": "🇺🇸 United States — #1152",
+      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231152",
+      "latency": 464.86
     },
     {
-      "name": "🇺🇸 United States — #1037",
-      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@83.166.254.231:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231037",
-      "latency": 1722.81
+      "name": "🇺🇸 United States — #1151",
+      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@83.166.254.120:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231151",
+      "latency": 476.37
     },
     {
-      "name": "🇺🇸 US | — | 29 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?type=ws&security=tls&encryption=none&fp=randomized&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2029%20%7C%20%40ByeWhiteLists2",
-      "latency": 1731.82
+      "name": "🇺🇸 US | — | 20 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2020%20%7C%20%40ByeWhiteLists2",
+      "latency": 493.67
     },
     {
-      "name": "🇺🇸 US | — | 17 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2017%20%7C%20%40ByeWhiteLists2",
-      "latency": 1744.89
-    },
-    {
-      "name": "🇺🇸 US | — | 539 | @ByeWhiteLists2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=&host=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20539%20%7C%20%40ByeWhiteLists2",
-      "latency": 1746.22
-    },
-    {
-      "name": "🇺🇸 US | — | 30 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2030%20%7C%20%40ByeWhiteLists2",
-      "latency": 1760.43
-    },
-    {
-      "name": "🇺🇸 US | — | 28 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2028%20%7C%20%40ByeWhiteLists2",
-      "latency": 1763.42
-    },
-    {
-      "name": "🇺🇸 US | — | 24 | @ByeWhiteLists2",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2024%20%7C%20%40ByeWhiteLists2",
-      "latency": 1879.34
+      "name": "🇺🇸 United States — #1028",
+      "url": "vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.237.139:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231028",
+      "latency": 537.01
     },
     {
       "name": "🇺🇸 US | — | 21 | @ByeWhiteLists2",
       "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2021%20%7C%20%40ByeWhiteLists2",
-      "latency": 1907.11
+      "latency": 545.02
     },
     {
-      "name": "🇺🇸 US | — | 589 | @ByeWhiteLists2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20589%20%7C%20%40ByeWhiteLists2",
-      "latency": 2169.55
+      "name": "🇺🇸 US | — | 14 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2014%20%7C%20%40ByeWhiteLists2",
+      "latency": 556.61
     },
     {
-      "name": "🇺🇸 United States — #838",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@51.250.29.106:48109?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=a04c6a6200a097a0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23838",
-      "latency": 2371.04
+      "name": "🇺🇸 US | — | 15 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2015%20%7C%20%40ByeWhiteLists2",
+      "latency": 565.7
     },
     {
-      "name": "🇺🇸 United States — #794",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23794",
-      "latency": 2596.11
+      "name": "🇺🇸 US | — | 12 | @ByeWhiteLists2",
+      "url": "vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?type=ws&security=tls&encryption=none&fp=chrome&sni=bold-term-4edd.mbigspot.workers.dev&host=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2012%20%7C%20%40ByeWhiteLists2",
+      "latency": 566.0
     },
     {
-      "name": "🇺🇸 United States — #986",
-      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23986",
-      "latency": 2871.49
+      "name": "🇺🇸 US | — | 18 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2018%20%7C%20%40ByeWhiteLists2",
+      "latency": 575.96
     },
     {
-      "name": "🇺🇸 United States — #670",
-      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23670",
-      "latency": 3702.51
+      "name": "🇺🇸 United States — #880",
+      "url": "vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.237.139:80?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2048&host=sss.yaml7.ggff.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23880",
+      "latency": 577.47
+    },
+    {
+      "name": "🇺🇸 US | — | 19 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2019%20%7C%20%40ByeWhiteLists2",
+      "latency": 583.04
+    },
+    {
+      "name": "🇺🇸 US | — | 23 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2023%20%7C%20%40ByeWhiteLists2",
+      "latency": 596.67
+    },
+    {
+      "name": "🇺🇸 US | — | 26 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2026%20%7C%20%40ByeWhiteLists2",
+      "latency": 608.44
+    },
+    {
+      "name": "🇺🇸 US | — | 17 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2017%20%7C%20%40ByeWhiteLists2",
+      "latency": 609.3
+    },
+    {
+      "name": "🇺🇸 US | — | 16 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2016%20%7C%20%40ByeWhiteLists2",
+      "latency": 621.42
+    },
+    {
+      "name": "🇺🇸 US | — | 24 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2024%20%7C%20%40ByeWhiteLists2",
+      "latency": 679.57
+    },
+    {
+      "name": "🇺🇸 US | — | 25 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2025%20%7C%20%40ByeWhiteLists2",
+      "latency": 704.91
+    },
+    {
+      "name": "🇺🇸 United States — #974",
+      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23974",
+      "latency": 774.2
+    },
+    {
+      "name": "🇺🇸 US | — | 27 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443/?type=ws&encryption=none&flow=&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2027%20%7C%20%40ByeWhiteLists2",
+      "latency": 794.19
+    },
+    {
+      "name": "🇺🇸 US | — | 28 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2028%20%7C%20%40ByeWhiteLists2",
+      "latency": 834.8
+    },
+    {
+      "name": "🇺🇸 United States — #934",
+      "url": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.38.181:443?encryption=none&type=ws&security=tls&host=powered-by-surena.configfarsi695fd4636f1c8.workers.dev&sni=powered-by-surena.configfarsi695fd4636f1c8.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23934",
+      "latency": 881.07
+    },
+    {
+      "name": "🇺🇸 United States — #973",
+      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@83.166.254.120:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23973",
+      "latency": 883.88
+    },
+    {
+      "name": "🇺🇸 United States — #944",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23944",
+      "latency": 914.9
+    },
+    {
+      "name": "🇺🇸 US | — | 38 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2038%20%7C%20%40ByeWhiteLists2",
+      "latency": 977.72
+    },
+    {
+      "name": "🇺🇸 US | — | 31 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2031%20%7C%20%40ByeWhiteLists2",
+      "latency": 987.51
+    },
+    {
+      "name": "🇺🇸 United States — #962",
+      "url": "vless://ce41165d-f134-4ad4-ac73-a4b2f19595ed@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23962",
+      "latency": 1003.29
+    },
+    {
+      "name": "🇺🇸 United States | 🌐 [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-1770-b22a-9a9c58c84811@90.156.214.46:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
+      "latency": 1006.45
+    },
+    {
+      "name": "🇺🇸 US | — | 29 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?type=ws&security=tls&encryption=none&fp=randomized&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2029%20%7C%20%40ByeWhiteLists2",
+      "latency": 1010.01
+    },
+    {
+      "name": "🇺🇸 United States — #1089",
+      "url": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.38.181:443?encryption=none&type=ws&security=tls&host=powered-by-surena.configfarsi695fd4636f1c8.workers.dev&sni=powered-by-surena.configfarsi695fd4636f1c8.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231089",
+      "latency": 1036.85
+    },
+    {
+      "name": "🇺🇸 US | — | 30 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2030%20%7C%20%40ByeWhiteLists2",
+      "latency": 1072.97
+    },
+    {
+      "name": "🇺🇸 United States — #1106",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231106",
+      "latency": 1084.54
+    },
+    {
+      "name": "🇺🇸 United States — #1138",
+      "url": "vless://ce41165d-f134-4ad4-ac73-a4b2f19595ed@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231138",
+      "latency": 1085.7
+    },
+    {
+      "name": "🇺🇸 US | — | 588 | @ByeWhiteLists2",
+      "url": "vless://d1209ffb-c159-48d5-b40d-542ce11fc768@auto.api-user.com:10121?security=reality&encryption=none&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9c2a7d4e5f18b6a3#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20588%20%7C%20%40ByeWhiteLists2",
+      "latency": 1143.54
+    },
+    {
+      "name": "🇺🇸 United States — #997",
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23997",
+      "latency": 1185.92
+    },
+    {
+      "name": "🇺🇸 United States — #1080",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=zgtwylnhh.cc.cd&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231080",
+      "latency": 1219.05
+    },
+    {
+      "name": "🇺🇸 United States — #853",
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23853",
+      "latency": 1254.38
+    },
+    {
+      "name": "🇺🇸 United States — #1100",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:2053?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=zgtwylnhh.cc.cd&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231100",
+      "latency": 1349.81
+    },
+    {
+      "name": "🇺🇸 US | — | 585 | @ByeWhiteLists2",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20585%20%7C%20%40ByeWhiteLists2",
+      "latency": 1403.63
+    },
+    {
+      "name": "🇺🇸 US | — | 49 | @ByeWhiteLists2",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2049%20%7C%20%40ByeWhiteLists2",
+      "latency": 1456.3
+    },
+    {
+      "name": "🇺🇸 United States — #1090",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:8443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231090",
+      "latency": 1464.78
+    },
+    {
+      "name": "🇺🇸 US | — | 51 | @ByeWhiteLists2",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@white-snowflake-e65e.queenmahsan1.workers.dev:443?type=ws&security=tls&encryption=none&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&ed=4096#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%2051%20%7C%20%40ByeWhiteLists2",
+      "latency": 1526.74
+    },
+    {
+      "name": "🇺🇸 United States — #1087",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.61.140.116:443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231087",
+      "latency": 1594.22
+    },
+    {
+      "name": "🇺🇸 US | — | 539 | @ByeWhiteLists2",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=&host=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20539%20%7C%20%40ByeWhiteLists2",
+      "latency": 1684.78
+    },
+    {
+      "name": "🇺🇸 United States [*CIDR] VK",
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK",
+      "latency": 1828.33
     },
     {
       "name": "🇺🇸 US | — | 590 | @ByeWhiteLists2",
       "url": "vless://7db4a03c-7616-42f1-a1e7-80ec822e1ed0@9kg.cumotech.com:21876?security=reality&type=tcp&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=204673043ea9&pbk=4SQmJ_vJw_UhDZ-sHlex6aJlYO0w7LndThtCaUDPYiI#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20590%20%7C%20%40ByeWhiteLists2",
-      "latency": 4020.54
+      "latency": 1988.97
+    },
+    {
+      "name": "🇺🇸 US | — | 589 | @ByeWhiteLists2",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20589%20%7C%20%40ByeWhiteLists2",
+      "latency": 2033.16
+    },
+    {
+      "name": "🇺🇸 US | — | 586 | @ByeWhiteLists2",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.61.140.116:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%E2%80%94%20%7C%20586%20%7C%20%40ByeWhiteLists2",
+      "latency": 2225.59
+    },
+    {
+      "name": "🇺🇸 United States — #958",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23958",
+      "latency": 2931.51
+    },
+    {
+      "name": "🇺🇸 United States — #960",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@51.250.29.106:48109?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=a04c6a6200a097a0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23960",
+      "latency": 3594.26
+    },
+    {
+      "name": "🇺🇸 United States — #1134",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231134",
+      "latency": 3865.02
+    },
+    {
+      "name": "🇺🇸 United States — #959",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23959",
+      "latency": 3883.5
+    },
+    {
+      "name": "🇺🇸 United States — #1132",
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231132",
+      "latency": 4010.57
     },
     {
       "name": "🇺🇸 United States — #957",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23957",
-      "latency": 4280.24
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23957",
+      "latency": 4062.44
     },
     {
-      "name": "🇺🇸 United States — #843",
-      "url": "vless://ce41165d-f134-4ad4-ac73-a4b2f19595ed@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23843",
-      "latency": 4815.72
+      "name": "🇺🇸 United States — #1135",
+      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231135",
+      "latency": 4402.0
     },
     {
-      "name": "🇺🇸 United States [*CIDR] YA",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@51.250.29.106:48109?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=a04c6a6200a097a0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA",
-      "latency": 5270.39
+      "name": "🇺🇸 United States [*CIDR] VK",
+      "url": "vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK",
+      "latency": 5099.43
+    },
+    {
+      "name": "🇺🇸 United States — #1136",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@51.250.29.106:48109?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=a04c6a6200a097a0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231136",
+      "latency": 5540.76
     }
   ]
 }

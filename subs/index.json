@@ -1,36 +1,46 @@
 {
-  "generated_at": "2026-03-16T23:50:33.366821Z",
-  "total": 770,
+  "generated_at": "2026-03-17T00:07:42.772465Z",
+  "total": 1027,
   "countries": [
-    {
-      "code": "RU",
-      "flag": "🇷🇺",
-      "count": 290
-    },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 198
+      "count": 328
     },
     {
-      "code": "PL",
-      "flag": "🇵🇱",
-      "count": 63
+      "code": "RU",
+      "flag": "🇷🇺",
+      "count": 293
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 56
+      "count": 100
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 47
+      "count": 70
+    },
+    {
+      "code": "PL",
+      "flag": "🇵🇱",
+      "count": 67
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 27
+      "count": 42
+    },
+    {
+      "code": "MD",
+      "flag": "🇲🇩",
+      "count": 32
+    },
+    {
+      "code": "EE",
+      "flag": "🇪🇪",
+      "count": 16
     },
     {
       "code": "FR",
@@ -38,19 +48,9 @@
       "count": 14
     },
     {
-      "code": "EE",
-      "flag": "🇪🇪",
-      "count": 12
-    },
-    {
       "code": "XX",
       "flag": "🇽🇽",
       "count": 12
-    },
-    {
-      "code": "FI",
-      "flag": "🇫🇮",
-      "count": 11
     },
     {
       "code": "LV",
@@ -58,19 +58,29 @@
       "count": 10
     },
     {
+      "code": "FI",
+      "flag": "🇫🇮",
+      "count": 9
+    },
+    {
       "code": "BE",
       "flag": "🇧🇪",
       "count": 6
     },
     {
-      "code": "NO",
-      "flag": "🇳🇴",
+      "code": "ES",
+      "flag": "🇪🇸",
       "count": 5
     },
     {
-      "code": "CH",
-      "flag": "🇨🇭",
-      "count": 4
+      "code": "KR",
+      "flag": "🇰🇷",
+      "count": 5
+    },
+    {
+      "code": "NO",
+      "flag": "🇳🇴",
+      "count": 5
     },
     {
       "code": "AE",
@@ -91,16 +101,6 @@
       "code": "SE",
       "flag": "🇸🇪",
       "count": 3
-    },
-    {
-      "code": "HU",
-      "flag": "🇭🇺",
-      "count": 1
-    },
-    {
-      "code": "KR",
-      "flag": "🇰🇷",
-      "count": 1
     }
   ]
 }
