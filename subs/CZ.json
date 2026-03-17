@@ -1,18 +1,18 @@
 {
   "country": "CZ",
   "flag": "🇨🇿",
-  "generated_at": "2026-03-17T12:26:25.056322Z",
+  "generated_at": "2026-03-17T12:43:22.991197Z",
   "total": 2,
   "configs": [
     {
-      "name": "🇨🇿 Czechia — #73",
-      "url": "vless://914f3806-07a1-4158-9624-e183de065a38@45.15.162.226:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=czech.letsconnectpoint.com&pbk=dDA3Nn1HL7zcS_LShGM7Po6AuT4KfVekIaBxbTB1-gw&sid=3e8a6c1f#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2373",
-      "latency": 286.44
-    },
-    {
       "name": "🇨🇿 Czechia — #66",
       "url": "vless://914f3806-07a1-4158-9624-e183de065a38@45.15.162.226:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=czech.letsconnectpoint.com&pbk=dDA3Nn1HL7zcS_LShGM7Po6AuT4KfVekIaBxbTB1-gw&sid=3e8a6c1f#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2366",
-      "latency": 756.82
+      "latency": 736.34
+    },
+    {
+      "name": "🇨🇿 Czechia — #73",
+      "url": "vless://914f3806-07a1-4158-9624-e183de065a38@45.15.162.226:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=czech.letsconnectpoint.com&pbk=dDA3Nn1HL7zcS_LShGM7Po6AuT4KfVekIaBxbTB1-gw&sid=3e8a6c1f#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2373",
+      "latency": 774.23
     }
   ]
 }
