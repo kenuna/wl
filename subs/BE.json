@@ -1,23 +1,13 @@
 {
   "country": "BE",
   "flag": "🇧🇪",
-  "generated_at": "2026-03-17T16:52:56.531252Z",
-  "total": 3,
+  "generated_at": "2026-03-17T17:10:34.256796Z",
+  "total": 1,
   "configs": [
     {
       "name": "🇧🇪 Belgium [SNI-RU] sun6-21.userapi.com",
       "url": "vless://bf263367-bb63-4663-b4a1-34946107a72e@belgium.illusion-vpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jEOyPuB64xP4dtOpVT5z2ycT7dt5dzHF6Pp4Obtd2Xc&sid=24eb19934a&sni=sun6-21.userapi.com&spx=/#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5BSNI-RU%5D%20sun6-21.userapi.com",
-      "latency": 1206.73
-    },
-    {
-      "name": "🇧🇪 Belgium [SNI-RU] sun6-21.userapi.com",
-      "url": "vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@belgium.illusion-vpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jEOyPuB64xP4dtOpVT5z2ycT7dt5dzHF6Pp4Obtd2Xc&sid=24eb19934a&sni=sun6-21.userapi.com&spx=/#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5BSNI-RU%5D%20sun6-21.userapi.com",
-      "latency": 1384.03
-    },
-    {
-      "name": "🇧🇪 Belgium [SNI-RU] sun6-21.userapi.com",
-      "url": "vless://4f54064f-de70-4bbf-9e67-95034fd0dde9@belgium.illusion-vpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jEOyPuB64xP4dtOpVT5z2ycT7dt5dzHF6Pp4Obtd2Xc&sid=24eb19934a&sni=sun6-21.userapi.com&spx=/#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5BSNI-RU%5D%20sun6-21.userapi.com",
-      "latency": 1813.15
+      "latency": 5181.81
     }
   ]
 }

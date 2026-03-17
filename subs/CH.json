@@ -1,28 +1,18 @@
 {
   "country": "CH",
   "flag": "🇨🇭",
-  "generated_at": "2026-03-16T23:50:33.366821Z",
-  "total": 4,
+  "generated_at": "2026-03-17T17:10:34.256796Z",
+  "total": 2,
   "configs": [
     {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sni=rbc.ru&sid=445ab326fc7c90ac#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 813.19
+      "name": "🇨🇭 Switzerland — #134",
+      "url": "vless://8bedb8c4-713f-45f5-bcf6-6b6f61ffb68c@95.85.236.24:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&sni=tradingview.com&pbk=pB4ndObhqBtpy_r0DsSYkTgiON8LgD3t2HJAwUDjIBY&sid=62517837#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23134",
+      "latency": 229.3
     },
     {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&sni=rbc.ru#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 1130.56
-    },
-    {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 1135.29
-    },
-    {
-      "name": "🇨🇭 Switzerland [*CIDR] VK",
-      "url": "vless://f8087787-3c62-490b-a67a-8bf36ddd4f3e@90.156.216.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
-      "latency": 1334.28
+      "name": "🇨🇭 Switzerland — #119",
+      "url": "vless://8bedb8c4-713f-45f5-bcf6-6b6f61ffb68c@95.85.236.24:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&sni=tradingview.com&pbk=pB4ndObhqBtpy_r0DsSYkTgiON8LgD3t2HJAwUDjIBY&sid=62517837#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23119",
+      "latency": 723.19
     }
   ]
 }
