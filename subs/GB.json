@@ -1,203 +1,198 @@
 {
   "country": "GB",
   "flag": "🇬🇧",
-  "generated_at": "2026-03-17T03:17:20.087801Z",
-  "total": 39,
+  "generated_at": "2026-03-17T03:34:31.314975Z",
+  "total": 38,
   "configs": [
     {
       "name": "🇬🇧 United Kingdom — #647",
       "url": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23647",
-      "latency": 281.12
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #652",
-      "url": "vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2560&host=iioo.iioou.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23652",
-      "latency": 283.23
-    },
-    {
-      "name": "🇬🇧 United Kingdom [SNI-RU] max.ru",
-      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@craftmymine.ru:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20max.ru",
-      "latency": 353.56
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #656",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23656",
-      "latency": 462.16
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #689",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23689",
-      "latency": 475.69
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #676",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=daluan.eu.org&fp=chrome&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23676",
-      "latency": 516.63
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #667",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23667",
-      "latency": 517.23
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #670",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23670",
-      "latency": 521.97
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #672",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23672",
-      "latency": 524.43
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #674",
-      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&fp=chrome&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23674",
-      "latency": 530.54
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #666",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23666",
-      "latency": 569.66
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #650",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23650",
-      "latency": 575.83
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #657",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23657",
-      "latency": 586.88
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #677",
-      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23677",
-      "latency": 606.44
+      "latency": 320.91
     },
     {
       "name": "🇬🇧 United Kingdom — #680",
       "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23680",
-      "latency": 617.66
+      "latency": 352.39
     },
     {
-      "name": "🇬🇧 United Kingdom — #660",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23660",
-      "latency": 676.62
+      "name": "🇬🇧 United Kingdom [SNI-RU] max.ru",
+      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@craftmymine.ru:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20max.ru",
+      "latency": 353.2
     },
     {
-      "name": "🇬🇧 United Kingdom — #664",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23664",
-      "latency": 713.46
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #558",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23558",
-      "latency": 849.17
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #649",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23649",
-      "latency": 855.69
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #555",
-      "url": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23555",
-      "latency": 865.74
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #560",
-      "url": "vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2560&host=iioo.iioou.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23560",
-      "latency": 879.82
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #596",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23596",
-      "latency": 896.47
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #561",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23561",
-      "latency": 931.53
-    },
-    {
-      "name": "🇬🇧 United Kingdom [*CIDR] VK",
-      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20VK",
-      "latency": 956.16
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #557",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23557",
-      "latency": 1041.44
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #571",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23571",
-      "latency": 1098.54
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #578",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23578",
-      "latency": 1103.61
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #580",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23580",
-      "latency": 1113.32
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #564",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23564",
-      "latency": 1138.89
+      "name": "🇬🇧 United Kingdom — #652",
+      "url": "vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2560&host=iioo.iioou.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23652",
+      "latency": 401.92
     },
     {
       "name": "🇬🇧 United Kingdom — #562",
       "url": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23562",
-      "latency": 1159.64
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #572",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23572",
-      "latency": 1174.82
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #573",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23573",
-      "latency": 1226.06
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #584",
-      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23584",
-      "latency": 1228.88
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #575",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23575",
-      "latency": 1251.15
-    },
-    {
-      "name": "🇬🇧 United Kingdom — #574",
-      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23574",
-      "latency": 1255.89
+      "latency": 427.11
     },
     {
       "name": "🇬🇧 United Kingdom — #654",
       "url": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23654",
-      "latency": 1266.53
+      "latency": 439.21
     },
     {
-      "name": "🇬🇧 United Kingdom — #587",
-      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23587",
-      "latency": 1282.54
+      "name": "🇬🇧 United Kingdom — #555",
+      "url": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23555",
+      "latency": 457.12
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #677",
+      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23677",
+      "latency": 460.75
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #649",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23649",
+      "latency": 463.65
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #656",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23656",
+      "latency": 479.21
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #564",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23564",
+      "latency": 487.16
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #560",
+      "url": "vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&type=ws&security=none&path=%2F%3Fed%3D2560&host=iioo.iioou.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23560",
+      "latency": 527.66
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #665",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23665",
+      "latency": 529.94
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #666",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23666",
+      "latency": 530.54
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #674",
+      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&fp=chrome&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23674",
+      "latency": 532.55
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #565",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23565",
+      "latency": 535.05
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #667",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23667",
+      "latency": 548.74
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #653",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23653",
+      "latency": 549.61
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #672",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23672",
+      "latency": 560.83
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #670",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23670",
+      "latency": 574.21
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #676",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=daluan.eu.org&fp=chrome&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23676",
+      "latency": 580.93
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #650",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23650",
+      "latency": 599.84
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #557",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23557",
+      "latency": 634.39
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #572",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23572",
+      "latency": 647.74
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #558",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23558",
+      "latency": 655.96
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #660",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23660",
+      "latency": 676.7
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #664",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23664",
+      "latency": 766.29
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #573",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23573",
+      "latency": 893.17
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #580",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23580",
+      "latency": 981.41
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #596",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23596",
+      "latency": 1077.43
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #575",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23575",
+      "latency": 1111.94
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #578",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23578",
+      "latency": 1124.61
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #584",
+      "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23584",
+      "latency": 1139.81
     },
     {
       "name": "🇬🇧 United Kingdom — #582",
       "url": "vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&fp=chrome&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23582",
-      "latency": 1320.15
+      "latency": 1145.42
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #587",
+      "url": "vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23587",
+      "latency": 1152.16
+    },
+    {
+      "name": "🇬🇧 United Kingdom — #574",
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23574",
+      "latency": 1179.7
     },
     {
       "name": "🇬🇧 United Kingdom — #583",
       "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=daluan.eu.org&fp=chrome&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23583",
-      "latency": 1387.8
+      "latency": 1197.27
+    },
+    {
+      "name": "🇬🇧 United Kingdom [*CIDR] VK",
+      "url": "vless://29aab552-bfbb-09c4-b22a-9a9c58c84811@83.166.249.42:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20VK",
+      "latency": 1206.94
     }
   ]
 }
