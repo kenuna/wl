@@ -1,18 +1,18 @@
 {
   "country": "SE",
   "flag": "🇸🇪",
-  "generated_at": "2026-03-17T15:23:27.365814Z",
+  "generated_at": "2026-03-17T15:41:36.727942Z",
   "total": 2,
   "configs": [
     {
-      "name": "🇸🇪 Sweden — #1392",
-      "url": "vless://d6a08568-2285-4b97-aa3b-f3d882958107@94.139.246.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vkclip.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231392",
-      "latency": 185.82
-    },
-    {
       "name": "🇸🇪 Sweden — #1194",
       "url": "vless://d6a08568-2285-4b97-aa3b-f3d882958107@94.139.246.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vkclip.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231194",
-      "latency": 289.91
+      "latency": 379.4
+    },
+    {
+      "name": "🇸🇪 Sweden — #1392",
+      "url": "vless://d6a08568-2285-4b97-aa3b-f3d882958107@94.139.246.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vkclip.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231392",
+      "latency": 400.75
     }
   ]
 }
