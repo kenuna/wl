@@ -1,463 +1,388 @@
 {
   "country": "RU",
   "flag": "🇷🇺",
-  "generated_at": "2026-03-17T08:45:14.464507Z",
-  "total": 91,
+  "generated_at": "2026-03-17T09:02:28.741872Z",
+  "total": 76,
   "configs": [
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 238.01
-    },
-    {
-      "name": "🇷🇺 Russia | 🌐 [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
-      "latency": 266.48
+      "url": "vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 642.95
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
       "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 304.91
+      "latency": 660.1
     },
     {
-      "name": "🇷🇺 RU | CIDR | 545 | @ByeWhiteLists2",
-      "url": "vless://658786e5-f302-48e2-b321-f4dc6da2a398@89.208.209.205:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=HFJMqU64bwcPSJ4E0sRshfVNjweeQxvAgRP_5OOxqHE&sid=048beb293406db13#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20545%20%7C%20%40ByeWhiteLists2",
-      "latency": 501.33
+      "name": "🇷🇺 BlueVPS OU — #44",
+      "url": "vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@37.139.35.141:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=513b0a#%F0%9F%87%B7%F0%9F%87%BA%20BlueVPS%20OU%20%E2%80%94%20%2344",
+      "latency": 915.04
     },
     {
       "name": "🇷🇺 RU | CIDR | 510 | @ByeWhiteLists2",
       "url": "vless://45686761-5a47-40c0-a982-a06233f9d64e@rustyanchor.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rustyanchor.cvs-a.com&fp=chrome&pbk=GP8Kqy3mEM26xh2VFg2TzRRlYZEOdEggGnajFqWVtyY&sid=44b4b131fa89c3a9#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20510%20%7C%20%40ByeWhiteLists2",
-      "latency": 789.64
+      "latency": 929.34
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 1027.22
+    },
+    {
+      "name": "🇷🇺 Russia | 🌐 [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
+      "latency": 1162.25
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 466 | @ByeWhiteLists2",
+      "url": "vless://45686761-5a47-40c0-a982-a06233f9d64e@learn.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=learn.cvs-a.com&fp=firefox&pbk=7ofzQ-1UxLIbwhG6Frl9T8nmoCjo9XaQgmbhcrQtkic&sid=341b1128dc685716#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20466%20%7C%20%40ByeWhiteLists2",
+      "latency": 1166.36
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 248 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@5.188.142.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20248%20%7C%20%40ByeWhiteLists2",
+      "latency": 1779.82
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 263 | @ByeWhiteLists2",
+      "url": "vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20263%20%7C%20%40ByeWhiteLists2",
+      "latency": 1907.07
     },
     {
       "name": "🇷🇺 RU | CIDR | 316 | @ByeWhiteLists2",
       "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20316%20%7C%20%40ByeWhiteLists2",
-      "latency": 984.58
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 250 | @ByeWhiteLists2",
-      "url": "vless://658786e5-f302-48e2-b321-f4dc6da2a398@95.163.208.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=random&pbk=g_CJpYLqRg7bpisGdpQ5bt6uajJ-UT7-4HKuvyswiBo&sid=5e233d20d580f6ed&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20250%20%7C%20%40ByeWhiteLists2",
-      "latency": 1181.53
+      "latency": 1953.39
     },
     {
       "name": "🇷🇺 RU | CIDR | 256 | @ByeWhiteLists2",
       "url": "vless://66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20256%20%7C%20%40ByeWhiteLists2",
-      "latency": 1301.15
+      "latency": 2149.92
     },
     {
-      "name": "🇷🇺 RU | CIDR | 540 | @ByeWhiteLists2",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20540%20%7C%20%40ByeWhiteLists2",
-      "latency": 1455.01
+      "name": "🇷🇺 RU | CIDR | 302 | @ByeWhiteLists2",
+      "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20302%20%7C%20%40ByeWhiteLists2",
+      "latency": 2386.08
     },
     {
-      "name": "🇷🇺 VK — #41",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2341",
-      "latency": 1929.58
-    },
-    {
-      "name": "🇷🇺 VK — #43",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2343",
-      "latency": 1966.23
-    },
-    {
-      "name": "🇷🇺 RU | — | 152 | @ByeWhiteLists2",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?type=ws&security=tls&encryption=none&sni=s43769.cdn.ngenix.net&host=s43769.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%E2%80%94%20%7C%20152%20%7C%20%40ByeWhiteLists2",
-      "latency": 2002.91
-    },
-    {
-      "name": "🇷🇺 VK — #7",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237",
-      "latency": 2115.26
-    },
-    {
-      "name": "🇷🇺 RU | — | 148 | @ByeWhiteLists2",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.155.80:443?type=ws&security=tls&encryption=none&sni=s43769.cdn.ngenix.net&host=s43769.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%E2%80%94%20%7C%20148%20%7C%20%40ByeWhiteLists2",
-      "latency": 2131.69
+      "name": "🇷🇺 RU | CIDR | 335 | @ByeWhiteLists2",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@5.188.142.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20335%20%7C%20%40ByeWhiteLists2",
+      "latency": 2741.64
     },
     {
       "name": "🇷🇺 RU | CIDR | 498 | @ByeWhiteLists2",
       "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20498%20%7C%20%40ByeWhiteLists2",
-      "latency": 2168.08
+      "latency": 2804.15
     },
     {
-      "name": "🇷🇺 RU | CIDR | 145 | @ByeWhiteLists2",
-      "url": "vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20145%20%7C%20%40ByeWhiteLists2",
-      "latency": 2210.31
-    },
-    {
-      "name": "🇷🇺 VK — #6",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%236",
-      "latency": 2324.8
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 203 | @ByeWhiteLists2",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20203%20%7C%20%40ByeWhiteLists2",
-      "latency": 2371.23
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2382.63
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 216 | @ByeWhiteLists2",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20216%20%7C%20%40ByeWhiteLists2",
-      "latency": 2523.19
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2581.18
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2670.64
-    },
-    {
-      "name": "🇷🇺 VK — #9",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%239",
-      "latency": 2694.11
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2705.0
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 337 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-2710-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20337%20%7C%20%40ByeWhiteLists2",
-      "latency": 2711.35
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2732.69
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 2797.62
-    },
-    {
-      "name": "🇷🇺 RU | — | 485 | @ByeWhiteLists2",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@s43769.cdn.ngenix.net:443?security=tls&type=ws&headerType=&path=/&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%E2%80%94%20%7C%20485%20%7C%20%40ByeWhiteLists2",
-      "latency": 2967.35
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 126 | @ByeWhiteLists2",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20126%20%7C%20%40ByeWhiteLists2",
-      "latency": 2988.66
-    },
-    {
-      "name": "🇷🇺 VK — #42",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2342",
-      "latency": 3114.63
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 502 | @ByeWhiteLists2",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20502%20%7C%20%40ByeWhiteLists2",
-      "latency": 3198.28
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 515 | @ByeWhiteLists2",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20515%20%7C%20%40ByeWhiteLists2",
-      "latency": 3283.22
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 278 | @ByeWhiteLists2",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20278%20%7C%20%40ByeWhiteLists2",
-      "latency": 3314.37
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 509 | @ByeWhiteLists2",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20509%20%7C%20%40ByeWhiteLists2",
-      "latency": 3411.49
-    },
-    {
-      "name": "🇷🇺 VK — #18",
-      "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2318",
-      "latency": 3552.06
-    },
-    {
-      "name": "🇷🇺 VK — #16",
-      "url": "vless://66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2316",
-      "latency": 3593.9
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 149 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20149%20%7C%20%40ByeWhiteLists2",
-      "latency": 3615.61
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 275 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.229.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20275%20%7C%20%40ByeWhiteLists2",
-      "latency": 3667.77
-    },
-    {
-      "name": "🇷🇺 CJSC Kolomna-Sviaz TV — #46",
-      "url": "vless://5c3950da-afeb-47e1-ae47-34fad8d7d071@51.250.39.173:443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=V2sPgGtzyv-HJYm3lmwbOpUZjExpR9BShOAEucnNNk0&sid=b3ff6043&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20CJSC%20Kolomna-Sviaz%20TV%20%E2%80%94%20%2346",
-      "latency": 3706.23
-    },
-    {
-      "name": "🇷🇺 VK — #11",
-      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2311",
-      "latency": 3740.36
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 268 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20268%20%7C%20%40ByeWhiteLists2",
-      "latency": 3748.98
-    },
-    {
-      "name": "🇷🇺 VK — #40",
-      "url": "vless://66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2340",
-      "latency": 3753.72
-    },
-    {
-      "name": "🇷🇺 VK — #39",
-      "url": "vless://a22f6494-f371-01f4-bad0-8df9594b8e45@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2339",
-      "latency": 3784.76
+      "name": "🇷🇺 RU | CIDR | 140 | @ByeWhiteLists2",
+      "url": "vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20140%20%7C%20%40ByeWhiteLists2",
+      "latency": 3269.76
     },
     {
       "name": "🇷🇺 RU | CIDR | 490 | @ByeWhiteLists2",
       "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20490%20%7C%20%40ByeWhiteLists2",
-      "latency": 3791.6
+      "latency": 3420.21
     },
     {
-      "name": "🇷🇺 VK — #17",
-      "url": "vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2317",
-      "latency": 3820.64
+      "name": "🇷🇺 RU | CIDR | 278 | @ByeWhiteLists2",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20278%20%7C%20%40ByeWhiteLists2",
+      "latency": 3478.3
     },
     {
-      "name": "🇷🇺 VK — #20",
-      "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2320",
-      "latency": 3834.96
+      "name": "🇷🇺 RU | CIDR | 268 | @ByeWhiteLists2",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20268%20%7C%20%40ByeWhiteLists2",
+      "latency": 3479.86
     },
     {
-      "name": "🇷🇺 RU | CIDR | 222 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20222%20%7C%20%40ByeWhiteLists2",
-      "latency": 3861.88
+      "name": "🇷🇺 RU | CIDR | 339 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20339%20%7C%20%40ByeWhiteLists2",
+      "latency": 3522.99
     },
     {
-      "name": "🇷🇺 VK — #33",
-      "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@109.120.188.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2333",
-      "latency": 3868.08
+      "name": "🇷🇺 RU | CIDR | 135 | @ByeWhiteLists2",
+      "url": "vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20135%20%7C%20%40ByeWhiteLists2",
+      "latency": 3614.01
     },
     {
-      "name": "🇷🇺 VK — #8",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%238",
-      "latency": 3902.39
+      "name": "🇷🇺 RU | CIDR | 306 | @ByeWhiteLists2",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@5.188.142.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20306%20%7C%20%40ByeWhiteLists2",
+      "latency": 3757.79
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 257 | @ByeWhiteLists2",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20257%20%7C%20%40ByeWhiteLists2",
+      "latency": 3853.01
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 168 | @ByeWhiteLists2",
+      "url": "vless://a3673511-8511-4f10-aa40-45eb15e2de82@212.233.72.45:4005?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lGHlmZV2mbCK7MNmpe5Zbwzet0uujs4kdWfcRVxMWEw&sid=484786&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20168%20%7C%20%40ByeWhiteLists2",
+      "latency": 3873.88
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 452 | @ByeWhiteLists2",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20452%20%7C%20%40ByeWhiteLists2",
+      "latency": 3934.56
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 515 | @ByeWhiteLists2",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20515%20%7C%20%40ByeWhiteLists2",
+      "latency": 4009.09
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.229.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 4079.45
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 4064.72
     },
     {
-      "name": "🇷🇺 RU | CIDR | 495 | @ByeWhiteLists2",
-      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20495%20%7C%20%40ByeWhiteLists2",
-      "latency": 4115.21
+      "name": "🇷🇺 RU | CIDR | 509 | @ByeWhiteLists2",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20509%20%7C%20%40ByeWhiteLists2",
+      "latency": 4075.01
     },
     {
-      "name": "🇷🇺 CJSC Kolomna-Sviaz TV — #45",
-      "url": "vless://5cadbb40-8c8a-421e-ad12-776c318ee3d4@84.201.130.202:443?encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=-DcrnFsXiVJveIydCAKFYqtzroWlEJi4cE4u7FRw8HA&sid=fc89&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20CJSC%20Kolomna-Sviaz%20TV%20%E2%80%94%20%2345",
-      "latency": 4309.47
+      "name": "🇷🇺 VK — #34",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2334",
+      "latency": 4344.15
     },
     {
-      "name": "🇷🇺 Timeweb — #55",
-      "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@188.225.82.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=KmW5T0jm-ZIr0LHhEQvE0q5jT_Mr75ZV3GzhjiV4p2Q&sid=9a36fd6cedfe3a04#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2355",
-      "latency": 4527.31
+      "name": "🇷🇺 VK — #35",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2335",
+      "latency": 4385.65
     },
     {
-      "name": "🇷🇺 RU | CIDR | 234 | @ByeWhiteLists2",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20234%20%7C%20%40ByeWhiteLists2",
-      "latency": 4576.58
+      "name": "🇷🇺 RU | CIDR | 502 | @ByeWhiteLists2",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20502%20%7C%20%40ByeWhiteLists2",
+      "latency": 4390.38
     },
     {
-      "name": "🇷🇺 VK — #31",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2331",
-      "latency": 4608.81
+      "name": "🇷🇺 VK — #27",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2327",
+      "latency": 4416.58
     },
     {
-      "name": "🇷🇺 RU | CIDR | 381 | @ByeWhiteLists2",
-      "url": "vless://b0dc6166-3ca7-4e9c-962c-282cfb3f2c2c@51.250.17.212:8442?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&sid=&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20381%20%7C%20%40ByeWhiteLists2",
-      "latency": 4737.05
+      "name": "🇷🇺 VK — #15",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2315",
+      "latency": 4436.53
     },
     {
-      "name": "🇷🇺 VK — #23",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2323",
-      "latency": 4754.89
+      "name": "🇷🇺 VK — #14",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2314",
+      "latency": 4445.22
     },
     {
-      "name": "🇷🇺 VK — #24",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2324",
-      "latency": 4774.64
+      "name": "🇷🇺 VK — #32",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2332",
+      "latency": 4446.29
     },
     {
-      "name": "🇷🇺 VK — #30",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2330",
-      "latency": 4782.19
+      "name": "🇷🇺 RU | CIDR | 126 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20126%20%7C%20%40ByeWhiteLists2",
+      "latency": 4448.68
     },
     {
-      "name": "🇷🇺 VK — #21",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2321",
-      "latency": 4787.14
+      "name": "🇷🇺 RU | CIDR | 328 | @ByeWhiteLists2",
+      "url": "vless://0c56d165-7005-4655-8b9e-4f6888b50318@185.241.192.76:443?security=reality&type=xhttp&path=%2F&mode=auto&sni=ipa.market.yandex.ru&pbk=68EHRUbJuQUjYVyutBh2_J62HxiSIidXeyE4hd7TGng&sid=a1765ed3#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20328%20%7C%20%40ByeWhiteLists2",
+      "latency": 4480.86
+    },
+    {
+      "name": "🇷🇺 VK — #13",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@5.188.142.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2313",
+      "latency": 4503.25
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 4573.11
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.191.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 4610.67
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 184 | @ByeWhiteLists2",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20184%20%7C%20%40ByeWhiteLists2",
+      "latency": 4648.72
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 540 | @ByeWhiteLists2",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.230.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20540%20%7C%20%40ByeWhiteLists2",
+      "latency": 4673.98
+    },
+    {
+      "name": "🇷🇺 VK — #1",
+      "url": "vless://658786e5-f302-48e2-b321-f4dc6da2a398@185.241.195.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=HFJMqU64bwcPSJ4E0sRshfVNjweeQxvAgRP_5OOxqHE&sid=048beb293406db13#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231",
+      "latency": 4682.11
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 151 | @ByeWhiteLists2",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20151%20%7C%20%40ByeWhiteLists2",
+      "latency": 4898.52
+    },
+    {
+      "name": "🇷🇺 VK — #9",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%239",
+      "latency": 4909.5
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 537 | @ByeWhiteLists2",
+      "url": "vless://961011c9-1244-414e-ba25-75479b35b553@89.208.197.6:5555?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20537%20%7C%20%40ByeWhiteLists2",
+      "latency": 5068.21
+    },
+    {
+      "name": "🇷🇺 Timeweb — #53",
+      "url": "vless://a3673511-8511-4f10-aa40-45eb15e2de82@212.233.72.45:4005?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=lGHlmZV2mbCK7MNmpe5Zbwzet0uujs4kdWfcRVxMWEw&sid=484786#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2353",
+      "latency": 5102.12
     },
     {
       "name": "🇷🇺 RU | CIDR | 382 | @ByeWhiteLists2",
       "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20382%20%7C%20%40ByeWhiteLists2",
-      "latency": 4796.76
+      "latency": 5440.12
     },
     {
-      "name": "🇷🇺 VK — #22",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2322",
-      "latency": 4881.3
-    },
-    {
-      "name": "🇷🇺 VK — #26",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2326",
-      "latency": 4915.9
-    },
-    {
-      "name": "🇷🇺 VK — #19",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2319",
-      "latency": 4959.04
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 412 | @ByeWhiteLists2",
-      "url": "vless://4d04014c-4ea3-4aed-9791-031414489a43@51.250.17.212:8442?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20412%20%7C%20%40ByeWhiteLists2",
-      "latency": 5115.76
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5130.78
-    },
-    {
-      "name": "🇷🇺 VK — #38",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2338",
-      "latency": 5167.12
-    },
-    {
-      "name": "🇷🇺 VK — #37",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2337",
-      "latency": 5177.46
-    },
-    {
-      "name": "🇷🇺 VK — #28",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2328",
-      "latency": 5194.99
+      "name": "🇷🇺 VK — #7",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237",
+      "latency": 5449.46
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
       "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5211.97
-    },
-    {
-      "name": "🇷🇺 VK — #29",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2329",
-      "latency": 5226.32
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 459 | @ByeWhiteLists2",
-      "url": "vless://db46bb3f-9987-4205-b42a-7e53e85576de@51.250.17.212:8448?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&sid=&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20459%20%7C%20%40ByeWhiteLists2",
-      "latency": 5271.64
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 340 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20340%20%7C%20%40ByeWhiteLists2",
-      "latency": 5296.0
-    },
-    {
-      "name": "🇷🇺 VK — #25",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2325",
-      "latency": 5303.6
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5332.0
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5457.65
-    },
-    {
-      "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5525.77
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 431 | @ByeWhiteLists2",
-      "url": "vless://56af3ffa-722c-4e62-be24-2f44ad97b08f@51.250.17.212:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sid=&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20431%20%7C%20%40ByeWhiteLists2",
-      "latency": 5556.81
+      "latency": 5495.42
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
       "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5665.76
+      "latency": 5541.68
     },
     {
-      "name": "🇷🇺 RU | CIDR | 133 | @ByeWhiteLists2",
-      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20133%20%7C%20%40ByeWhiteLists2",
-      "latency": 5713.22
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 5601.56
+    },
+    {
+      "name": "🇷🇺 VK — #6",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%236",
+      "latency": 5625.51
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
       "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5789.49
+      "latency": 5628.19
     },
     {
-      "name": "🇷🇺 RU | CIDR | 259 | @ByeWhiteLists2",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20259%20%7C%20%40ByeWhiteLists2",
-      "latency": 5811.93
+      "name": "🇷🇺 VK — #37",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2337",
+      "latency": 5745.51
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 347 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20347%20%7C%20%40ByeWhiteLists2",
+      "latency": 5769.13
+    },
+    {
+      "name": "🇷🇺 VK — #38",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2338",
+      "latency": 5850.63
+    },
+    {
+      "name": "🇷🇺 Timeweb — #52",
+      "url": "vless://90c9c25c-df6c-4438-83d3-ef97166a9184@212.233.72.45:4005?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=lGHlmZV2mbCK7MNmpe5Zbwzet0uujs4kdWfcRVxMWEw&sid=484786#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2352",
+      "latency": 5928.87
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 133 | @ByeWhiteLists2",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20133%20%7C%20%40ByeWhiteLists2",
+      "latency": 5941.01
     },
     {
       "name": "🇷🇺 VK — #36",
       "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2336",
-      "latency": 5816.6
+      "latency": 5959.41
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 5963.7
+    },
+    {
+      "name": "🇷🇺 VK — #22",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2322",
+      "latency": 5980.81
+    },
+    {
+      "name": "🇷🇺 VK — #21",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2321",
+      "latency": 5990.94
+    },
+    {
+      "name": "🇷🇺 VK — #26",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2326",
+      "latency": 5994.08
+    },
+    {
+      "name": "🇷🇺 VK — #19",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2319",
+      "latency": 6002.49
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 6029.59
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 234 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20234%20%7C%20%40ByeWhiteLists2",
+      "latency": 6077.38
+    },
+    {
+      "name": "🇷🇺 RU | CIDR | 259 | @ByeWhiteLists2",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20259%20%7C%20%40ByeWhiteLists2",
+      "latency": 6093.47
+    },
+    {
+      "name": "🇷🇺 Timeweb — #50",
+      "url": "vless://90c9c25c-df6c-4438-83d3-ef97166a9184@212.233.72.45:4005?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=lGHlmZV2mbCK7MNmpe5Zbwzet0uujs4kdWfcRVxMWEw&sid=484786#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2350",
+      "latency": 6102.17
+    },
+    {
+      "name": "🇷🇺 VK — #31",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2331",
+      "latency": 6112.08
+    },
+    {
+      "name": "🇷🇺 Russia [*CIDR] VK",
+      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 6112.36
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
       "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 5893.45
+      "latency": 6139.25
     },
     {
-      "name": "🇷🇺 RU | CIDR | 514 | @ByeWhiteLists2",
-      "url": "vless://a6c0b253-7636-479e-9ea7-19e8759f7de7@51.250.17.212:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sid=&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20514%20%7C%20%40ByeWhiteLists2",
-      "latency": 5959.7
+      "name": "🇷🇺 RU | CIDR | 222 | @ByeWhiteLists2",
+      "url": "vless://66b78cb9-c0a7-0bb8-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20222%20%7C%20%40ByeWhiteLists2",
+      "latency": 6276.75
     },
     {
       "name": "🇷🇺 Russia [*CIDR] VK",
-      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
-      "latency": 6037.32
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.32.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK",
+      "latency": 6313.49
     },
     {
-      "name": "🇷🇺 RU | CIDR | 315 | @ByeWhiteLists2",
-      "url": "vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20315%20%7C%20%40ByeWhiteLists2",
-      "latency": 6095.62
+      "name": "🇷🇺 RU | CIDR | 536 | @ByeWhiteLists2",
+      "url": "vless://ea143789-bec4-4fdd-b879-e817d2935334@95.163.211.101:7433?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20536%20%7C%20%40ByeWhiteLists2",
+      "latency": 6396.51
     },
     {
-      "name": "🇷🇺 RU | CIDR | 443 | @ByeWhiteLists2",
-      "url": "vless://e88a7c99-fcdd-467e-b947-ed60a5028304@37.139.35.32:12443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20443%20%7C%20%40ByeWhiteLists2",
-      "latency": 6417.59
+      "name": "🇷🇺 VK — #24",
+      "url": "vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2324",
+      "latency": 6918.95
     },
     {
-      "name": "🇷🇺 RU | CIDR | 420 | @ByeWhiteLists2",
-      "url": "vless://b59fcfe8-9ab9-4728-a00c-00eb676b25f9@51.250.17.212:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sid=&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20420%20%7C%20%40ByeWhiteLists2",
-      "latency": 6425.85
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 369 | @ByeWhiteLists2",
-      "url": "vless://cc5b3d22-4907-43c6-b14e-a3cda1f7183e@51.250.17.212:7445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&sid=&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20369%20%7C%20%40ByeWhiteLists2",
-      "latency": 7624.43
-    },
-    {
-      "name": "🇷🇺 RU | CIDR | 444 | @ByeWhiteLists2",
-      "url": "vless://379c173c-5260-431d-8150-a11054e52bc6@51.250.17.212:8448?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20CIDR%20%7C%20444%20%7C%20%40ByeWhiteLists2",
-      "latency": 8171.37
+      "name": "🇷🇺 VK — #25",
+      "url": "vless://8dc2d7d6-fc93-07d0-a911-e01486357252@37.139.34.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2325",
+      "latency": 6942.29
     }
   ]
 }
