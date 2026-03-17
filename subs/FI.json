@@ -1,128 +1,53 @@
 {
   "country": "FI",
   "flag": "🇫🇮",
-  "generated_at": "2026-03-17T18:56:26.175099Z",
-  "total": 24,
+  "generated_at": "2026-03-17T19:14:02.420141Z",
+  "total": 9,
   "configs": [
     {
-      "name": "🇫🇮 Finland — #717",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23717",
-      "latency": 583.61
+      "name": "🇫🇮 Finland — #736",
+      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23736",
+      "latency": 316.35
     },
     {
-      "name": "🇫🇮 Finland — #603",
-      "url": "vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23603",
-      "latency": 825.36
+      "name": "🇫🇮 Finland — #742",
+      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23742",
+      "latency": 420.4
     },
     {
-      "name": "🇫🇮 Finland — #723",
-      "url": "vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23723",
-      "latency": 1158.5
+      "name": "🇫🇮 Finland — #744",
+      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23744",
+      "latency": 493.56
     },
     {
-      "name": "🇫🇮 Finland — #591",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23591",
-      "latency": 1298.69
+      "name": "🇫🇮 Finland — #616",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23616",
+      "latency": 999.88
     },
     {
-      "name": "🇫🇮 Finland — #608",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23608",
-      "latency": 1565.91
+      "name": "🇫🇮 Finland — #627",
+      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23627",
+      "latency": 1027.7
     },
     {
-      "name": "🇫🇮 Finland — #729",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23729",
-      "latency": 1704.02
+      "name": "🇫🇮 Finland — #731",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23731",
+      "latency": 2070.39
     },
     {
-      "name": "🇫🇮 Finland — #725",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23725",
-      "latency": 1747.82
+      "name": "🇫🇮 Finland — #739",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23739",
+      "latency": 2438.9
     },
     {
-      "name": "🇫🇮 Finland — #714",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23714",
-      "latency": 2011.4
+      "name": "🇫🇮 Finland — #623",
+      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23623",
+      "latency": 3148.76
     },
     {
-      "name": "🇫🇮 Finland — #718",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.190.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23718",
-      "latency": 2039.33
-    },
-    {
-      "name": "🇫🇮 Finland — #709",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23709",
-      "latency": 2080.26
-    },
-    {
-      "name": "🇫🇮 Finland — #595",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23595",
-      "latency": 2230.81
-    },
-    {
-      "name": "🇫🇮 Finland — #598",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.190.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23598",
-      "latency": 2488.52
-    },
-    {
-      "name": "🇫🇮 Finland — #605",
-      "url": "vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23605",
-      "latency": 2692.33
-    },
-    {
-      "name": "🇫🇮 Finland — #597",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23597",
-      "latency": 3386.54
-    },
-    {
-      "name": "🇫🇮 Finland — #609",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23609",
-      "latency": 3503.18
-    },
-    {
-      "name": "🇫🇮 Finland — #730",
-      "url": "vless://f4ab40c6-3f49-0bb8-83ac-24362c278c06@109.120.189.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23730",
-      "latency": 3667.27
-    },
-    {
-      "name": "🇫🇮 Finland [*CIDR] YA",
-      "url": "vless://2ee1c14b-942d-4184-bde6-739a9ec9f6e6@84.201.162.74:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=scV2ZOGBrAEzG7p0jZp6lWOSpY3WiMFZqvihYT3ziTU&sid=5e&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3802.34
-    },
-    {
-      "name": "🇫🇮 Finland — #728",
-      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23728",
-      "latency": 4547.56
-    },
-    {
-      "name": "🇫🇮 Finland — #724",
-      "url": "vless://2ee1c14b-942d-4184-bde6-739a9ec9f6e6@84.201.162.74:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=scV2ZOGBrAEzG7p0jZp6lWOSpY3WiMFZqvihYT3ziTU&sid=5e&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23724",
-      "latency": 4548.65
-    },
-    {
-      "name": "🇫🇮 Finland — #720",
-      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23720",
-      "latency": 4598.43
-    },
-    {
-      "name": "🇫🇮 Finland — #604",
-      "url": "vless://2ee1c14b-942d-4184-bde6-739a9ec9f6e6@84.201.162.74:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=scV2ZOGBrAEzG7p0jZp6lWOSpY3WiMFZqvihYT3ziTU&sid=5e&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23604",
-      "latency": 4926.56
-    },
-    {
-      "name": "🇫🇮 Finland — #600",
-      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23600",
-      "latency": 5016.68
-    },
-    {
-      "name": "🇫🇮 Finland — #607",
-      "url": "vless://a7f7aa0b-7da3-4b21-bf81-05e53c0d6951@51.250.89.7:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=jYVYD5XYKozaucURU2g-ehNlIaBg-8LqB67LZGjJpgo&sid=9f5aef96dc&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23607",
-      "latency": 5214.25
-    },
-    {
-      "name": "🇫🇮 Finland — #719",
-      "url": "vless://2ee1c14b-942d-4184-bde6-739a9ec9f6e6@84.201.162.74:8443?encryption=none&type=tcp&security=reality&fp=random&sni=disk.yandex.ru&pbk=scV2ZOGBrAEzG7p0jZp6lWOSpY3WiMFZqvihYT3ziTU&sid=5e&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23719",
-      "latency": 5460.31
+      "name": "🇫🇮 Finland — #618",
+      "url": "vless://754dfc91-8b6c-0bb8-905f-47480387e8a4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23618",
+      "latency": 3628.85
     }
   ]
 }
