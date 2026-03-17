@@ -1,13 +1,13 @@
 {
   "country": "BY",
   "flag": "🇧🇾",
-  "generated_at": "2026-03-17T09:53:48.655394Z",
+  "generated_at": "2026-03-17T16:35:09.667491Z",
   "total": 1,
   "configs": [
     {
       "name": "🇧🇾 Belarus [*CIDR]",
-      "url": "vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@aucdn3.animetut.net:443/?type=tcp&encryption=none&flow=&security=tls&sni=aucdn3.animetut.net&fp=chrome&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D",
-      "latency": 332.7
+      "url": "vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.129.64:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=aucdn3.animetut.net#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D",
+      "latency": 904.12
     }
   ]
 }
