@@ -1,18 +1,268 @@
 {
   "country": "CH",
   "flag": "🇨🇭",
-  "generated_at": "2026-03-17T17:10:34.256796Z",
-  "total": 2,
+  "generated_at": "2026-03-17T18:20:57.589485Z",
+  "total": 52,
   "configs": [
     {
-      "name": "🇨🇭 Switzerland — #134",
-      "url": "vless://8bedb8c4-713f-45f5-bcf6-6b6f61ffb68c@95.85.236.24:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&sni=tradingview.com&pbk=pB4ndObhqBtpy_r0DsSYkTgiON8LgD3t2HJAwUDjIBY&sid=62517837#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23134",
-      "latency": 229.3
+      "name": "🇨🇭 Switzerland — #113",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23113",
+      "latency": 766.6
+    },
+    {
+      "name": "🇨🇭 Switzerland — #117",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23117",
+      "latency": 766.91
+    },
+    {
+      "name": "🇨🇭 Switzerland — #116",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23116",
+      "latency": 818.4
+    },
+    {
+      "name": "🇨🇭 Switzerland — #107",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23107",
+      "latency": 864.03
+    },
+    {
+      "name": "🇨🇭 Switzerland — #103",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23103",
+      "latency": 876.11
+    },
+    {
+      "name": "🇨🇭 Switzerland — #78",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2378",
+      "latency": 879.63
+    },
+    {
+      "name": "🇨🇭 Switzerland — #112",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23112",
+      "latency": 892.14
+    },
+    {
+      "name": "🇨🇭 Switzerland — #82",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2382",
+      "latency": 893.89
+    },
+    {
+      "name": "🇨🇭 Switzerland — #85",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@162.159.36.20:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2385",
+      "latency": 906.86
+    },
+    {
+      "name": "🇨🇭 Switzerland — #92",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2392",
+      "latency": 940.54
+    },
+    {
+      "name": "🇨🇭 Switzerland — #104",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23104",
+      "latency": 949.74
+    },
+    {
+      "name": "🇨🇭 Switzerland — #89",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2389",
+      "latency": 950.95
+    },
+    {
+      "name": "🇨🇭 Switzerland — #87",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=ca.adobe-connect.top&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2387",
+      "latency": 971.83
+    },
+    {
+      "name": "🇨🇭 Switzerland — #98",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2398",
+      "latency": 973.47
+    },
+    {
+      "name": "🇨🇭 Switzerland — #127",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23127",
+      "latency": 997.42
+    },
+    {
+      "name": "🇨🇭 Switzerland — #128",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23128",
+      "latency": 998.58
+    },
+    {
+      "name": "🇨🇭 Switzerland — #89",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2389",
+      "latency": 1031.47
+    },
+    {
+      "name": "🇨🇭 Switzerland — #131",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23131",
+      "latency": 1038.22
+    },
+    {
+      "name": "🇨🇭 Switzerland — #132",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23132",
+      "latency": 1052.37
+    },
+    {
+      "name": "🇨🇭 Switzerland — #102",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@188.114.98.44:2053?encryption=none&type=ws&security=tls&path=%2F&host=dxg5.sellink.ir&fp=chrome&sni=dxg5.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23102",
+      "latency": 1062.67
+    },
+    {
+      "name": "🇨🇭 Switzerland — #110",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23110",
+      "latency": 1074.19
+    },
+    {
+      "name": "🇨🇭 Switzerland — #107",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23107",
+      "latency": 1083.53
     },
     {
       "name": "🇨🇭 Switzerland — #119",
-      "url": "vless://8bedb8c4-713f-45f5-bcf6-6b6f61ffb68c@95.85.236.24:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&sni=tradingview.com&pbk=pB4ndObhqBtpy_r0DsSYkTgiON8LgD3t2HJAwUDjIBY&sid=62517837#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23119",
-      "latency": 723.19
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM-%3Fed%3D512&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23119",
+      "latency": 1093.33
+    },
+    {
+      "name": "🇨🇭 Switzerland — #99",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2399",
+      "latency": 1109.62
+    },
+    {
+      "name": "🇨🇭 Switzerland — #111",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23111",
+      "latency": 1111.93
+    },
+    {
+      "name": "🇨🇭 Switzerland — #98",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2398",
+      "latency": 1112.95
+    },
+    {
+      "name": "🇨🇭 Switzerland — #121",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23121",
+      "latency": 1141.88
+    },
+    {
+      "name": "🇨🇭 Switzerland — #93",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2393",
+      "latency": 1150.99
+    },
+    {
+      "name": "🇨🇭 Switzerland — #77",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=ca.adobe-connect.top&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2377",
+      "latency": 1154.2
+    },
+    {
+      "name": "🇨🇭 Switzerland — #94",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2394",
+      "latency": 1182.11
+    },
+    {
+      "name": "🇨🇭 Switzerland — #122",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23122",
+      "latency": 1190.58
+    },
+    {
+      "name": "🇨🇭 Switzerland — #91",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2391",
+      "latency": 1193.32
+    },
+    {
+      "name": "🇨🇭 Switzerland — #90",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2390",
+      "latency": 1202.96
+    },
+    {
+      "name": "🇨🇭 Switzerland — #108",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23108",
+      "latency": 1212.68
+    },
+    {
+      "name": "🇨🇭 Switzerland — #96",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@162.159.36.5:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2396",
+      "latency": 1213.96
+    },
+    {
+      "name": "🇨🇭 Switzerland — #97",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2397",
+      "latency": 1225.31
+    },
+    {
+      "name": "🇨🇭 Switzerland — #90",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2390",
+      "latency": 1232.58
+    },
+    {
+      "name": "🇨🇭 Switzerland — #109",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23109",
+      "latency": 1237.64
+    },
+    {
+      "name": "🇨🇭 Switzerland — #95",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@162.159.36.20:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2395",
+      "latency": 1239.76
+    },
+    {
+      "name": "🇨🇭 Switzerland — #76",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@162.159.36.5:2096?encryption=none&type=ws&security=tls&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2376",
+      "latency": 1244.31
+    },
+    {
+      "name": "🇨🇭 Switzerland — #94",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2394",
+      "latency": 1244.68
+    },
+    {
+      "name": "🇨🇭 Switzerland — #81",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2381",
+      "latency": 1254.36
+    },
+    {
+      "name": "🇨🇭 Switzerland — #88",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2388",
+      "latency": 1261.46
+    },
+    {
+      "name": "🇨🇭 Switzerland — #123",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23123",
+      "latency": 1267.17
+    },
+    {
+      "name": "🇨🇭 Switzerland — #80",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2380",
+      "latency": 1307.76
+    },
+    {
+      "name": "🇨🇭 Switzerland — #87",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2387",
+      "latency": 1318.75
+    },
+    {
+      "name": "🇨🇭 Switzerland — #105",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23105",
+      "latency": 1473.59
+    },
+    {
+      "name": "🇨🇭 Switzerland — #106",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%23106",
+      "latency": 1486.99
+    },
+    {
+      "name": "🇨🇭 Switzerland — #95",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2395",
+      "latency": 1651.22
+    },
+    {
+      "name": "🇨🇭 Switzerland — #96",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2396",
+      "latency": 1673.29
+    },
+    {
+      "name": "🇨🇭 Switzerland — #97",
+      "url": "vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?encryption=none&type=ws&security=tls&path=%2F&host=fz3.sellink.ir&fp=chrome&sni=fz3.sellink.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2397",
+      "latency": 1877.74
+    },
+    {
+      "name": "🇨🇭 Switzerland — #83",
+      "url": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2383",
+      "latency": 1995.37
     }
   ]
 }
