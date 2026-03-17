@@ -1,168 +1,93 @@
 {
   "country": "PL",
   "flag": "🇵🇱",
-  "generated_at": "2026-03-17T07:53:26.497870Z",
-  "total": 32,
+  "generated_at": "2026-03-17T08:10:51.516985Z",
+  "total": 17,
   "configs": [
     {
       "name": "🇵🇱 Poland | 🌐 | [IPv6] [SNI-RU] web.max.ru",
       "url": "vless://3fec85c6-0cae-43a1-a9b8-914f8653b644@5.181.188.224:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&spx=%2F&sid=42a5#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20web.max.ru",
-      "latency": 594.52
-    },
-    {
-      "name": "🇵🇱 Poland — #739",
-      "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@95.85.253.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=wIiyrDgDLtI7eLUxYwU7Wd01nHlgD92CuZBq7AuZoG0&sid=c3eca0881e841585#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23739",
-      "latency": 701.4
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://5a9f139e-b99e-4fa9-8263-c7d07d538140@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 836.82
+      "latency": 846.76
     },
     {
       "name": "🇵🇱 Poland [*CIDR]",
       "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@95.85.253.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=wIiyrDgDLtI7eLUxYwU7Wd01nHlgD92CuZBq7AuZoG0&sid=c3eca0881e841585#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D",
-      "latency": 847.44
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://b59fcfe8-9ab9-4728-a00c-00eb676b25f9@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 1223.58
-    },
-    {
-      "name": "🇵🇱 Poland — #865",
-      "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@95.85.253.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=wIiyrDgDLtI7eLUxYwU7Wd01nHlgD92CuZBq7AuZoG0&sid=c3eca0881e841585#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23865",
-      "latency": 1718.61
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://82c1c0b9-aac0-483c-ba06-6dcc94391cb4@51.250.17.212:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sid=&sni=max.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 1784.32
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://1b2018cc-9032-46e6-a06d-347fbfec3f26@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 1864.18
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://fa13cebf-c85e-4226-984f-d539ea207a62@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 1933.06
-    },
-    {
-      "name": "🇵🇱 Poland — #846",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.189.248:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23846",
-      "latency": 2030.46
-    },
-    {
-      "name": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK",
-      "url": "vless://0c56d165-7005-4655-8b9e-4f6888b50318@212.233.88.14:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=elma.sdesk-stage-1.salt.x5.ru&pbk=9V6nLW41-TzWLHj4NGN-MW-71IA-41W0VgUMOgihwTo#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-      "latency": 2299.25
-    },
-    {
-      "name": "🇵🇱 Poland — #856",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.155.80:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23856",
-      "latency": 2345.96
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://56af3ffa-722c-4e62-be24-2f44ad97b08f@51.250.17.212:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&sid=&sni=max.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 2387.58
-    },
-    {
-      "name": "🇵🇱 Poland — #858",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23858",
-      "latency": 3032.81
-    },
-    {
-      "name": "🇵🇱 Poland — #848",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.152.120:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23848",
-      "latency": 3099.9
-    },
-    {
-      "name": "🇵🇱 Poland — #859",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.152.120:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23859",
-      "latency": 3155.54
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://b0a34640-87fa-4db3-8822-ac5d7ab4856b@51.250.17.212:8448?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&sid=&sni=max.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3234.28
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://1d0297c4-9079-41a8-99b4-1850a32131e1@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3378.03
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://a6c0b253-7636-479e-9ea7-19e8759f7de7@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3388.73
-    },
-    {
-      "name": "🇵🇱 Poland — #721",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.189.248:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23721",
-      "latency": 3451.53
-    },
-    {
-      "name": "🇵🇱 Poland — #854",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.189.248:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23854",
-      "latency": 3465.03
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://379c173c-5260-431d-8150-a11054e52bc6@51.250.17.212:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3838.9
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://f73f8228-8907-42d0-836b-819f69293c3e@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 3969.83
-    },
-    {
-      "name": "🇵🇱 Poland — #723",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.152.120:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23723",
-      "latency": 3969.93
-    },
-    {
-      "name": "🇵🇱 Poland — #732",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23732",
-      "latency": 3991.85
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://8ee6a020-337b-4578-9bb9-a35f1a2b2824@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 4026.06
-    },
-    {
-      "name": "🇵🇱 Poland — #722",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23722",
-      "latency": 4134.8
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://b0a34640-87fa-4db3-8822-ac5d7ab4856b@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 4149.27
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR] YA",
-      "url": "vless://03db0ba9-7751-451f-881d-b27782051450@51.250.17.212:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA",
-      "latency": 5412.04
-    },
-    {
-      "name": "🇵🇱 Poland [*CIDR]",
-      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D",
-      "latency": 5512.24
+      "latency": 3002.94
     },
     {
       "name": "🇵🇱 Poland [*CIDR]",
       "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D",
-      "latency": 5559.26
+      "latency": 3424.28
     },
     {
-      "name": "🇵🇱 Poland — #853",
-      "url": "vless://ecc8a933-059b-4d38-a23d-4035c9825c8d@95.163.211.101:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23853",
-      "latency": 5790.64
+      "name": "🇵🇱 Poland — #745",
+      "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@95.85.253.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=wIiyrDgDLtI7eLUxYwU7Wd01nHlgD92CuZBq7AuZoG0&sid=c3eca0881e841585#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23745",
+      "latency": 3521.02
+    },
+    {
+      "name": "🇵🇱 Poland — #622",
+      "url": "vless://39832ad0-eb3c-42a9-83ae-d160f5667df3@95.85.253.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=wIiyrDgDLtI7eLUxYwU7Wd01nHlgD92CuZBq7AuZoG0&sid=c3eca0881e841585#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23622",
+      "latency": 3596.3
+    },
+    {
+      "name": "🇵🇱 Poland — #612",
+      "url": "vless://66b78cb9-c0a7-2710-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23612",
+      "latency": 4439.58
+    },
+    {
+      "name": "🇵🇱 Poland — #620",
+      "url": "vless://0c56d165-7005-4655-8b9e-4f6888b50318@212.233.88.14:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=elma.sdesk-stage-1.salt.x5.ru&pbk=9V6nLW41-TzWLHj4NGN-MW-71IA-41W0VgUMOgihwTo#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23620",
+      "latency": 4611.02
+    },
+    {
+      "name": "🇵🇱 Poland — #608",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.155.80:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23608",
+      "latency": 4772.37
+    },
+    {
+      "name": "🇵🇱 Poland — #736",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.152.120:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23736",
+      "latency": 4835.01
+    },
+    {
+      "name": "🇵🇱 Poland — #735",
+      "url": "vless://66b78cb9-c0a7-2710-8b3c-d10d03fa0cb4@89.208.229.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23735",
+      "latency": 4900.0
+    },
+    {
+      "name": "🇵🇱 Poland [*CIDR]",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D",
+      "latency": 4922.32
+    },
+    {
+      "name": "🇵🇱 Poland — #613",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.152.120:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23613",
+      "latency": 5105.08
+    },
+    {
+      "name": "🇵🇱 Poland — #739",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.189.248:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23739",
+      "latency": 5126.35
+    },
+    {
+      "name": "🇵🇱 Poland — #616",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.189.248:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23616",
+      "latency": 5343.21
+    },
+    {
+      "name": "🇵🇱 Poland — #737",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.155.80:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&fp=qq&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23737",
+      "latency": 5383.46
+    },
+    {
+      "name": "🇵🇱 Poland — #730",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@212.193.155.80:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23730",
+      "latency": 6108.35
+    },
+    {
+      "name": "🇵🇱 Poland — #731",
+      "url": "vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@46.235.186.177:443?encryption=none&type=ws&security=tls&path=%2F&host=s43769.cdn.ngenix.net&sni=s43769.cdn.ngenix.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23731",
+      "latency": 6135.83
     }
   ]
 }
