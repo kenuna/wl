@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:34:45.688969Z",
-  "total": 1234,
+  "generated_at": "2026-03-18T04:53:59.159247Z",
+  "total": 1162,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 250
+      "count": 198
     },
     {
       "code": "AE",
@@ -25,7 +25,7 @@
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 17
+      "count": 12
     },
     {
       "code": "CY",
@@ -40,27 +40,27 @@
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 386
+      "count": 394
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 21
+      "count": 17
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 66
+      "count": 78
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 29
+      "count": 28
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 42
+      "count": 45
     },
     {
       "code": "HU",
@@ -73,14 +73,14 @@
       "count": 4
     },
     {
+      "code": "IT",
+      "flag": "🇮🇹",
+      "count": 1
+    },
+    {
       "code": "JP",
       "flag": "🇯🇵",
       "count": 10
-    },
-    {
-      "code": "KR",
-      "flag": "🇰🇷",
-      "count": 1
     },
     {
       "code": "KZ",
@@ -90,12 +90,7 @@
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 12
-    },
-    {
-      "code": "LU",
-      "flag": "🇱🇺",
-      "count": 2
+      "count": 19
     },
     {
       "code": "LV",
@@ -105,12 +100,12 @@
     {
       "code": "MD",
       "flag": "🇲🇩",
-      "count": 50
+      "count": 38
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 139
+      "count": 127
     },
     {
       "code": "NO",
@@ -120,12 +115,17 @@
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 52
+      "count": 45
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 19
+      "count": 15
+    },
+    {
+      "code": "SI",
+      "flag": "🇸🇮",
+      "count": 4
     },
     {
       "code": "TR",
@@ -135,12 +135,12 @@
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 66
+      "count": 63
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 30
+      "count": 26
     }
   ]
 }
