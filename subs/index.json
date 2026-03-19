@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-03-19T22:30:24.836744Z",
-  "total": 993,
+  "generated_at": "2026-03-19T22:43:52.144249Z",
+  "total": 333,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 293
+      "count": 52
+    },
+    {
+      "code": "AT",
+      "flag": "🇦🇹",
+      "count": 1
     },
     {
       "code": "BG",
       "flag": "🇧🇬",
-      "count": 8
+      "count": 3
+    },
+    {
+      "code": "CA",
+      "flag": "🇨🇦",
+      "count": 1
     },
     {
       "code": "CH",
@@ -20,32 +30,32 @@
     {
       "code": "CY",
       "flag": "🇨🇾",
-      "count": 4
+      "count": 2
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 209
+      "count": 80
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 7
+      "count": 3
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 33
+      "count": 15
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 27
+      "count": 6
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 46
+      "count": 11
     },
     {
       "code": "HK",
@@ -60,37 +70,32 @@
     {
       "code": "IN",
       "flag": "🇮🇳",
-      "count": 2
-    },
-    {
-      "code": "IS",
-      "flag": "🇮🇸",
-      "count": 3
+      "count": 1
     },
     {
       "code": "KR",
       "flag": "🇰🇷",
-      "count": 40
+      "count": 4
     },
     {
       "code": "KZ",
       "flag": "🇰🇿",
-      "count": 3
+      "count": 1
     },
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 4
+      "count": 1
     },
     {
       "code": "LV",
       "flag": "🇱🇻",
-      "count": 9
+      "count": 2
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 76
+      "count": 23
     },
     {
       "code": "NO",
@@ -100,27 +105,27 @@
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 58
+      "count": 16
     },
     {
-      "code": "SE",
-      "flag": "🇸🇪",
-      "count": 2
+      "code": "RS",
+      "flag": "🇷🇸",
+      "count": 1
     },
     {
-      "code": "SG",
-      "flag": "🇸🇬",
+      "code": "TR",
+      "flag": "🇹🇷",
       "count": 1
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 52
+      "count": 20
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 112
+      "count": 85
     }
   ]
 }
