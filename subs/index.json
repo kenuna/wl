@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-03-24T05:19:05.595421Z",
-  "total": 2314,
+  "generated_at": "2026-03-24T05:40:22.257111Z",
+  "total": 4353,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 1628
+      "count": 3580
     },
     {
-      "code": "AL",
-      "flag": "🇦🇱",
-      "count": 5
+      "code": "AT",
+      "flag": "🇦🇹",
+      "count": 2
     },
     {
       "code": "AU",
       "flag": "🇦🇺",
-      "count": 10
+      "count": 16
+    },
+    {
+      "code": "BE",
+      "flag": "🇧🇪",
+      "count": 4
     },
     {
       "code": "BG",
       "flag": "🇧🇬",
-      "count": 2
+      "count": 1
+    },
+    {
+      "code": "BR",
+      "flag": "🇧🇷",
+      "count": 1
     },
     {
       "code": "CA",
@@ -30,7 +40,7 @@
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 6
+      "count": 8
     },
     {
       "code": "CN",
@@ -40,42 +50,47 @@
     {
       "code": "CY",
       "flag": "🇨🇾",
-      "count": 4
+      "count": 7
     },
     {
       "code": "CZ",
       "flag": "🇨🇿",
-      "count": 4
+      "count": 6
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 163
+      "count": 154
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 17
+      "count": 25
+    },
+    {
+      "code": "ES",
+      "flag": "🇪🇸",
+      "count": 1
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 56
+      "count": 58
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 4
+      "count": 7
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 10
+      "count": 18
     },
     {
       "code": "GR",
       "flag": "🇬🇷",
-      "count": 3
+      "count": 4
     },
     {
       "code": "HR",
@@ -85,67 +100,92 @@
     {
       "code": "HU",
       "flag": "🇭🇺",
-      "count": 10
+      "count": 17
+    },
+    {
+      "code": "IL",
+      "flag": "🇮🇱",
+      "count": 1
+    },
+    {
+      "code": "IQ",
+      "flag": "🇮🇶",
+      "count": 1
+    },
+    {
+      "code": "IT",
+      "flag": "🇮🇹",
+      "count": 1
     },
     {
       "code": "JP",
       "flag": "🇯🇵",
-      "count": 19
+      "count": 17
     },
     {
       "code": "KR",
       "flag": "🇰🇷",
-      "count": 15
+      "count": 14
     },
     {
       "code": "KZ",
       "flag": "🇰🇿",
-      "count": 9
+      "count": 10
     },
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 9
+      "count": 12
     },
     {
       "code": "LV",
       "flag": "🇱🇻",
-      "count": 7
+      "count": 10
     },
     {
       "code": "MD",
       "flag": "🇲🇩",
-      "count": 11
+      "count": 12
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 56
+      "count": 67
     },
     {
       "code": "NO",
       "flag": "🇳🇴",
-      "count": 6
+      "count": 5
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 48
+      "count": 51
     },
     {
       "code": "RO",
       "flag": "🇷🇴",
-      "count": 4
+      "count": 6
+    },
+    {
+      "code": "RS",
+      "flag": "🇷🇸",
+      "count": 1
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 11
+      "count": 10
     },
     {
       "code": "SG",
       "flag": "🇸🇬",
       "count": 15
+    },
+    {
+      "code": "TR",
+      "flag": "🇹🇷",
+      "count": 2
     },
     {
       "code": "UA",
@@ -155,12 +195,12 @@
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 18
+      "count": 28
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 151
+      "count": 168
     }
   ]
 }
