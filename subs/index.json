@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T06:09:56.262610Z",
-  "total": 1172,
+  "generated_at": "2026-03-26T06:29:01.682657Z",
+  "total": 974,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 433
+      "count": 413
     },
     {
       "code": "AL",
@@ -23,14 +23,9 @@
       "count": 2
     },
     {
-      "code": "BY",
-      "flag": "🇧🇾",
-      "count": 1
-    },
-    {
       "code": "CA",
       "flag": "🇨🇦",
-      "count": 2
+      "count": 3
     },
     {
       "code": "CH",
@@ -45,12 +40,12 @@
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 267
+      "count": 203
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 17
+      "count": 16
     },
     {
       "code": "ES",
@@ -60,12 +55,12 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 74
+      "count": 62
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 9
+      "count": 11
     },
     {
       "code": "GB",
@@ -75,6 +70,11 @@
     {
       "code": "GE",
       "flag": "🇬🇪",
+      "count": 2
+    },
+    {
+      "code": "IN",
+      "flag": "🇮🇳",
       "count": 1
     },
     {
@@ -85,7 +85,7 @@
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 14
+      "count": 15
     },
     {
       "code": "LU",
@@ -100,12 +100,12 @@
     {
       "code": "MD",
       "flag": "🇲🇩",
-      "count": 22
+      "count": 23
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 72
+      "count": 57
     },
     {
       "code": "PL",
@@ -113,24 +113,24 @@
       "count": 40
     },
     {
-      "code": "SE",
-      "flag": "🇸🇪",
-      "count": 71
+      "code": "RS",
+      "flag": "🇷🇸",
+      "count": 1
     },
     {
-      "code": "UN",
-      "flag": "🇺🇳",
-      "count": 1
+      "code": "SE",
+      "flag": "🇸🇪",
+      "count": 10
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 50
+      "count": 27
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 51
+      "count": 43
     }
   ]
 }
