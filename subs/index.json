@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-03-26T07:07:09.631850Z",
-  "total": 805,
+  "generated_at": "2026-03-26T07:26:02.394154Z",
+  "total": 728,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 339
+      "count": 330
+    },
+    {
+      "code": "BE",
+      "flag": "🇧🇪",
+      "count": 1
     },
     {
       "code": "BG",
@@ -30,12 +35,12 @@
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 153
+      "count": 123
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 12
+      "count": 5
     },
     {
       "code": "ES",
@@ -45,7 +50,7 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 54
+      "count": 50
     },
     {
       "code": "FR",
@@ -60,7 +65,12 @@
     {
       "code": "GE",
       "flag": "🇬🇪",
-      "count": 2
+      "count": 1
+    },
+    {
+      "code": "IN",
+      "flag": "🇮🇳",
+      "count": 1
     },
     {
       "code": "KZ",
@@ -70,12 +80,12 @@
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 16
+      "count": 17
     },
     {
       "code": "LU",
       "flag": "🇱🇺",
-      "count": 9
+      "count": 10
     },
     {
       "code": "LV",
@@ -85,22 +95,27 @@
     {
       "code": "MD",
       "flag": "🇲🇩",
-      "count": 27
+      "count": 11
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 48
+      "count": 42
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 31
+      "count": 19
     },
     {
-      "code": "SE",
-      "flag": "🇸🇪",
-      "count": 5
+      "code": "RS",
+      "flag": "🇷🇸",
+      "count": 1
+    },
+    {
+      "code": "TR",
+      "flag": "🇹🇷",
+      "count": 1
     },
     {
       "code": "UA",
@@ -110,17 +125,17 @@
     {
       "code": "UN",
       "flag": "🇺🇳",
-      "count": 4
+      "count": 5
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 21
+      "count": 28
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 51
+      "count": 50
     }
   ]
 }
