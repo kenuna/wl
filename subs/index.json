@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-03-27T11:22:08.327142Z",
-  "total": 1034,
+  "generated_at": "2026-03-27T11:41:37.107812Z",
+  "total": 727,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 521
-    },
-    {
-      "code": "AL",
-      "flag": "🇦🇱",
-      "count": 15
+      "count": 402
     },
     {
       "code": "BG",
@@ -20,22 +15,22 @@
     {
       "code": "CA",
       "flag": "🇨🇦",
-      "count": 4
+      "count": 2
     },
     {
-      "code": "CY",
-      "flag": "🇨🇾",
+      "code": "CH",
+      "flag": "🇨🇭",
       "count": 1
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 152
+      "count": 76
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 8
+      "count": 4
     },
     {
       "code": "ES",
@@ -45,17 +40,17 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 51
+      "count": 33
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 4
+      "count": 2
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 5
+      "count": 4
     },
     {
       "code": "HU",
@@ -65,12 +60,12 @@
     {
       "code": "IT",
       "flag": "🇮🇹",
-      "count": 16
+      "count": 15
     },
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 28
+      "count": 1
     },
     {
       "code": "MD",
@@ -80,32 +75,37 @@
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 33
+      "count": 29
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 48
+      "count": 32
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 8
+      "count": 2
     },
     {
       "code": "TR",
       "flag": "🇹🇷",
-      "count": 3
+      "count": 1
+    },
+    {
+      "code": "UN",
+      "flag": "🇺🇳",
+      "count": 1
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 29
+      "count": 18
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 63
+      "count": 59
     }
   ]
 }
