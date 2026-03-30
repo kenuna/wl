@@ -1,46 +1,56 @@
 {
-  "generated_at": "2026-03-30T14:50:43.904193Z",
-  "total": 439,
+  "generated_at": "2026-03-30T15:09:41.868980Z",
+  "total": 680,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 178
+      "count": 301
     },
     {
       "code": "BG",
       "flag": "🇧🇬",
-      "count": 13
+      "count": 14
+    },
+    {
+      "code": "BR",
+      "flag": "🇧🇷",
+      "count": 1
+    },
+    {
+      "code": "CA",
+      "flag": "🇨🇦",
+      "count": 1
     },
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 1
+      "count": 5
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 56
+      "count": 51
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 5
+      "count": 9
     },
     {
       "code": "ES",
       "flag": "🇪🇸",
-      "count": 7
+      "count": 20
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 12
+      "count": 10
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 1
+      "count": 11
     },
     {
       "code": "GB",
@@ -50,7 +60,7 @@
     {
       "code": "HU",
       "flag": "🇭🇺",
-      "count": 5
+      "count": 10
     },
     {
       "code": "ID",
@@ -60,42 +70,37 @@
     {
       "code": "IT",
       "flag": "🇮🇹",
-      "count": 14
-    },
-    {
-      "code": "LV",
-      "flag": "🇱🇻",
-      "count": 1
+      "count": 20
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 70
+      "count": 78
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 18
+      "count": 36
+    },
+    {
+      "code": "RO",
+      "flag": "🇷🇴",
+      "count": 1
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 3
-    },
-    {
-      "code": "UN",
-      "flag": "🇺🇳",
-      "count": 1
+      "count": 7
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 8
+      "count": 10
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 40
+      "count": 89
     }
   ]
 }
