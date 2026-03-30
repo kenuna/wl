@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-03-30T05:10:18.654567Z",
-  "total": 1239,
+  "generated_at": "2026-03-30T05:29:16.485059Z",
+  "total": 1201,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 515
+      "count": 492
     },
     {
       "code": "AL",
       "flag": "🇦🇱",
-      "count": 13
+      "count": 2
+    },
+    {
+      "code": "AT",
+      "flag": "🇦🇹",
+      "count": 2
     },
     {
       "code": "BG",
@@ -35,12 +40,12 @@
     {
       "code": "CZ",
       "flag": "🇨🇿",
-      "count": 1
+      "count": 3
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 219
+      "count": 214
     },
     {
       "code": "DK",
@@ -50,22 +55,22 @@
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 2
+      "count": 10
     },
     {
       "code": "ES",
       "flag": "🇪🇸",
-      "count": 62
+      "count": 60
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 22
+      "count": 24
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 25
+      "count": 19
     },
     {
       "code": "GB",
@@ -80,7 +85,7 @@
     {
       "code": "HU",
       "flag": "🇭🇺",
-      "count": 28
+      "count": 25
     },
     {
       "code": "ID",
@@ -120,27 +125,27 @@
     {
       "code": "LV",
       "flag": "🇱🇻",
-      "count": 1
+      "count": 2
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 104
+      "count": 100
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 70
+      "count": 81
     },
     {
       "code": "RO",
       "flag": "🇷🇴",
-      "count": 2
+      "count": 3
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 27
+      "count": 25
     },
     {
       "code": "SG",
@@ -155,17 +160,17 @@
     {
       "code": "UN",
       "flag": "🇺🇳",
-      "count": 2
+      "count": 1
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 20
+      "count": 18
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 59
+      "count": 53
     }
   ]
 }
