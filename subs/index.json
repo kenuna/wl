@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T03:49:47.592854Z",
-  "total": 430,
+  "generated_at": "2026-04-01T04:10:28.160085Z",
+  "total": 688,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 222
+      "count": 251
     },
     {
       "code": "AE",
@@ -13,24 +13,19 @@
       "count": 1
     },
     {
-      "code": "AT",
-      "flag": "🇦🇹",
-      "count": 2
+      "code": "AL",
+      "flag": "🇦🇱",
+      "count": 10
     },
     {
       "code": "CA",
       "flag": "🇨🇦",
-      "count": 5
+      "count": 6
     },
     {
       "code": "CH",
       "flag": "🇨🇭",
       "count": 2
-    },
-    {
-      "code": "CN",
-      "flag": "🇨🇳",
-      "count": 1
     },
     {
       "code": "CZ",
@@ -40,27 +35,22 @@
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 85
+      "count": 183
     },
     {
       "code": "EE",
       "flag": "🇪🇪",
-      "count": 1
-    },
-    {
-      "code": "ES",
-      "flag": "🇪🇸",
-      "count": 1
+      "count": 9
     },
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 8
+      "count": 16
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 3
+      "count": 2
     },
     {
       "code": "GB",
@@ -75,7 +65,7 @@
     {
       "code": "IT",
       "flag": "🇮🇹",
-      "count": 13
+      "count": 12
     },
     {
       "code": "JP",
@@ -83,24 +73,29 @@
       "count": 1
     },
     {
+      "code": "LT",
+      "flag": "🇱🇹",
+      "count": 11
+    },
+    {
       "code": "LV",
       "flag": "🇱🇻",
-      "count": 3
+      "count": 4
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 22
+      "count": 35
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 13
+      "count": 16
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
-      "count": 1
+      "count": 62
     },
     {
       "code": "TR",
@@ -115,12 +110,12 @@
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 5
+      "count": 27
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 36
+      "count": 35
     }
   ]
 }
