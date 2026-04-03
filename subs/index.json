@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-04-03T02:55:16.862619Z",
-  "total": 629,
+  "generated_at": "2026-04-03T03:14:01.708605Z",
+  "total": 611,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 268
-    },
-    {
-      "code": "AT",
-      "flag": "🇦🇹",
-      "count": 1
+      "count": 221
     },
     {
       "code": "CA",
@@ -20,12 +15,17 @@
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 12
+      "count": 8
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 140
+      "count": 189
+    },
+    {
+      "code": "EE",
+      "flag": "🇪🇪",
+      "count": 2
     },
     {
       "code": "ES",
@@ -35,12 +35,12 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 9
+      "count": 2
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 24
+      "count": 11
     },
     {
       "code": "GB",
@@ -50,11 +50,11 @@
     {
       "code": "HU",
       "flag": "🇭🇺",
-      "count": 57
+      "count": 64
     },
     {
-      "code": "IT",
-      "flag": "🇮🇹",
+      "code": "IN",
+      "flag": "🇮🇳",
       "count": 1
     },
     {
@@ -63,19 +63,29 @@
       "count": 1
     },
     {
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "count": 1
+    },
+    {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 20
+      "count": 17
+    },
+    {
+      "code": "LV",
+      "flag": "🇱🇻",
+      "count": 1
     },
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 39
+      "count": 38
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 3
+      "count": 2
     },
     {
       "code": "SE",
@@ -85,22 +95,22 @@
     {
       "code": "TR",
       "flag": "🇹🇷",
-      "count": 2
+      "count": 3
     },
     {
       "code": "UN",
       "flag": "🇺🇳",
-      "count": 3
+      "count": 2
     },
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 6
+      "count": 7
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 35
+      "count": 33
     }
   ]
 }
