@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T17:38:34.467571Z",
-  "total": 212,
+  "generated_at": "2026-04-08T17:57:39.004044Z",
+  "total": 181,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 46
+      "count": 53
     },
     {
       "code": "AE",
@@ -13,29 +13,24 @@
       "count": 1
     },
     {
-      "code": "BE",
-      "flag": "🇧🇪",
-      "count": 4
-    },
-    {
       "code": "CA",
       "flag": "🇨🇦",
-      "count": 2
+      "count": 4
     },
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 3
+      "count": 4
     },
     {
       "code": "CZ",
       "flag": "🇨🇿",
-      "count": 5
+      "count": 2
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 44
+      "count": 34
     },
     {
       "code": "ES",
@@ -45,22 +40,32 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 22
+      "count": 9
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 9
+      "count": 4
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 3
+      "count": 4
+    },
+    {
+      "code": "HK",
+      "flag": "🇭🇰",
+      "count": 1
     },
     {
       "code": "HU",
       "flag": "🇭🇺",
       "count": 5
+    },
+    {
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "count": 1
     },
     {
       "code": "LT",
@@ -80,7 +85,7 @@
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 9
+      "count": 8
     },
     {
       "code": "NO",
@@ -95,17 +100,17 @@
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 18
+      "count": 7
     },
     {
-      "code": "SE",
-      "flag": "🇸🇪",
+      "code": "SK",
+      "flag": "🇸🇰",
       "count": 1
     },
     {
       "code": "TR",
       "flag": "🇹🇷",
-      "count": 2
+      "count": 4
     },
     {
       "code": "UA",
@@ -115,12 +120,12 @@
     {
       "code": "US",
       "flag": "🇺🇸",
-      "count": 13
+      "count": 12
     },
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 11
+      "count": 13
     }
   ]
 }
