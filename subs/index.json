@@ -1,11 +1,21 @@
 {
-  "generated_at": "2026-04-08T20:50:27.528182Z",
-  "total": 309,
+  "generated_at": "2026-04-08T21:09:48.140847Z",
+  "total": 494,
   "countries": [
     {
       "code": "RU",
       "flag": "🇷🇺",
-      "count": 65
+      "count": 100
+    },
+    {
+      "code": "AL",
+      "flag": "🇦🇱",
+      "count": 3
+    },
+    {
+      "code": "BE",
+      "flag": "🇧🇪",
+      "count": 4
     },
     {
       "code": "CA",
@@ -15,17 +25,22 @@
     {
       "code": "CH",
       "flag": "🇨🇭",
-      "count": 4
+      "count": 3
     },
     {
       "code": "CZ",
       "flag": "🇨🇿",
-      "count": 1
+      "count": 2
     },
     {
       "code": "DE",
       "flag": "🇩🇪",
-      "count": 57
+      "count": 111
+    },
+    {
+      "code": "EE",
+      "flag": "🇪🇪",
+      "count": 1
     },
     {
       "code": "ES",
@@ -35,22 +50,22 @@
     {
       "code": "FI",
       "flag": "🇫🇮",
-      "count": 20
+      "count": 27
     },
     {
       "code": "FR",
       "flag": "🇫🇷",
-      "count": 20
+      "count": 31
     },
     {
       "code": "GB",
       "flag": "🇬🇧",
-      "count": 5
+      "count": 7
     },
     {
       "code": "HU",
       "flag": "🇭🇺",
-      "count": 18
+      "count": 30
     },
     {
       "code": "KZ",
@@ -60,7 +75,7 @@
     {
       "code": "LT",
       "flag": "🇱🇹",
-      "count": 16
+      "count": 25
     },
     {
       "code": "LV",
@@ -70,17 +85,22 @@
     {
       "code": "NL",
       "flag": "🇳🇱",
-      "count": 17
+      "count": 49
     },
     {
       "code": "PL",
       "flag": "🇵🇱",
-      "count": 35
+      "count": 43
     },
     {
       "code": "SE",
       "flag": "🇸🇪",
       "count": 1
+    },
+    {
+      "code": "SI",
+      "flag": "🇸🇮",
+      "count": 3
     },
     {
       "code": "SK",
@@ -90,7 +110,7 @@
     {
       "code": "TR",
       "flag": "🇹🇷",
-      "count": 3
+      "count": 5
     },
     {
       "code": "UA",
@@ -110,7 +130,7 @@
     {
       "code": "XX",
       "flag": "🇽🇽",
-      "count": 19
+      "count": 21
     }
   ]
 }
